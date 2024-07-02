@@ -6,8 +6,8 @@
       "images": [
         {
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:081b946f5eea1973ebc38f694c8a9726855dc39259edb7bcb6c526ad79ac0992",
-            "created": "2024-05-22T18:37:02.5925912Z",
+            "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:2fd2b8bfc8979b53c29c31c50bbb6fbd17a515d6a77131f0384e18b760e33287",
+            "created": "2024-06-21T17:01:12.2814473Z",
             "sharedTags": [
               "aspnetapp"
             ]
@@ -18,26 +18,26 @@
               "simpleTags": [
                 "aspnetapp-windowsservercore-ltsc2016"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:c55b8dd50259335ef18b3e524fc8a2f4d3aa90f4f36e0291c56ea9c2b8a37229",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/aspnet@sha256:bb6135016b3474b768b30b2c4923821fd2d5598b58cdbfdf8c5b02a59a682780",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:4fcbf9801cf0592f83a6c54208b65672ab9259ec9eea9ed7cf9749849f316618",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/aspnet@sha256:ea55a5760f998d0cd28da89800beefd0418f98c07c797411b8a19124180fdfdd",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2016",
               "architecture": "amd64",
-              "created": "2024-05-22T18:13:24.072228Z",
+              "created": "2024-06-21T16:38:23.7241132Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/9ef55182e0cac3e60af377ea04aef3bd96f68253/samples/aspnetapp/Dockerfile",
               "layers": [
-                "sha256:26771bd72a8ee89b112a458576662298b0063723636f49248f2c06f9aed8cdd8",
-                "sha256:2c8678c28bc977bb6334f4318812d7cd640f929432901eae6cc5542ae6480e87",
-                "sha256:a8df15e571b5a992332dcb948e97ec59b98a697c1bf524f60312776223960187",
-                "sha256:9e84322fed11d221a4fdf21a6793a52e0d8e99b9db0a3ce3262e9eacee964ef5",
-                "sha256:5c1746cbf062d19ca4bad8a555e740a3ba9f86fe053be885f174f47e282c5d62",
-                "sha256:9d838c88bece863cfbc8c0f6d5c18932551bfb53efc2b168cb577457c39ac2bc",
-                "sha256:2954e510bfaf7662124a7fd01b6aa17adbf15ee740d1778b3b95cf60b267dba2",
-                "sha256:b8a04d3e396dd98c5a048e5c64e91d7758cb0daecda368ab838a3a562874d066",
-                "sha256:581bc52e86490b8236f8e92ab436fd5487346241c18259fbab0cd6e4b1eb6925",
-                "sha256:fcbe1f68617318197f8922c8e611ea2102ec939b1be8ea80895d82fbf78b1526",
-                "sha256:6c4ca161acd7422ede9c893e807747f74fe375edf117f61aac55a9ed73800c6a",
-                "sha256:52bb1c4eaf97caddd95ab01e4c4f08c8b324ad061cb7560e447f0df277d61049",
+                "sha256:3ad101148b6e2b73b985c4437270481329c1c228a178d157367825c9e0cc51aa",
+                "sha256:21aa3a83e2b921299db1b9099cb9a985e81ce5c0b2f26dcf9220931195cf80c8",
+                "sha256:8d43c569103b321fdd49790d1c48c285d0e3a85f1c7eeabdd3966ac25561ac0b",
+                "sha256:88c038aeb6d85a137b72a5943583adf18a05d075f230cd778ba983913998e622",
+                "sha256:10744d02478769f5bedf5e205dbb642babb52816298c1c432a06ff4db6cc51cb",
+                "sha256:bd7f38c9eb1c7a5a1a51e89e2b01e4d1fbaee160b396e16f4079f201ef44c513",
+                "sha256:15db57e02eac1c54ad0840b32421dbaeb3f159dd16f447cb63d5d888db6e00dd",
+                "sha256:2ce0722e6144aac6f8465ab84b8dab12df6a8ea9b2e58d91237602633112d360",
+                "sha256:bdee4b4f32089233c8234ff8160b77eda5ef48ce9167c217b5c68d485bafd676",
+                "sha256:43553e02c3c37ba2cbc566f16a273e699e27a60236d4722bea3da7a8f1be7671",
+                "sha256:c1b61b22060bb86e74fa71e0c07dcf66f39e1887d5b7b33d00aacb5775ab1ddc",
+                "sha256:509e7414d067ec72162880bafd9fd7f56f4fc6520ee54f4d981cc401d230680c",
                 "sha256:010ca8045f7ed43016b902c6d72d6fb73cbba3827a25c4fe73c48c80394df874"
               ]
             },
@@ -46,26 +46,26 @@
               "simpleTags": [
                 "aspnetapp-windowsservercore-ltsc2019"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:4746fd6f479960ce4c6d46ec6de9b3b9afe84c39b83747efb32858a178d24a0b",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/aspnet@sha256:bb6135016b3474b768b30b2c4923821fd2d5598b58cdbfdf8c5b02a59a682780",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:dd7813af211ef6138994b2f13cca55540b1d6f306d8e57d6251d462409e0a42e",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/aspnet@sha256:ea55a5760f998d0cd28da89800beefd0418f98c07c797411b8a19124180fdfdd",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2019",
               "architecture": "amd64",
-              "created": "2024-05-22T18:01:32.8521609Z",
+              "created": "2024-06-21T16:26:59.2551375Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/9ef55182e0cac3e60af377ea04aef3bd96f68253/samples/aspnetapp/Dockerfile",
               "layers": [
-                "sha256:7fdf8cf99d400628c3cbada2ebfaf44c493546fe0ee84e6931fa1ca64f8575bf",
-                "sha256:7273cc4a0903f4e1081db1261c551692fe7fa63559d5305afde75003777cf7da",
-                "sha256:6ec0153dd118db91d9028e8f3bd06eb29cd6bef580a6e90a0ba6d583abcb0e16",
-                "sha256:b2f9f0fdaf160116d759626add972a7861ba9560b066ab4668cd9378b896851c",
-                "sha256:2f13498fb970a2630dad730affd246daed11219724746fd8a1938f0214e73d64",
-                "sha256:91b01360bbe74c72c90a7f13a45c2637885d1cd1892a5e1949a1a79cdff9e0fe",
-                "sha256:344775b0fa5469505f0a38330f6b4f303d97342e9a4b669aa08ae9301c29eaa2",
-                "sha256:9d775e253c29be3c11bb70b4d8c4aeb99810e2c8108d4fe5fc17695ed73329c3",
-                "sha256:a1d02419306ae6bbe1b496dcaf8029f89d6f061f582b8dfd2d1b2cb54694eb15",
-                "sha256:f5d27d2708a58747c9d7041a3447923de14677e19e157853400437d8a0253c7e",
-                "sha256:a8f2073aa6dd3ece5a0ec3d652f48b61177fb5d04f0f01c52d1c4af3b50d3cc8",
-                "sha256:e00cc2568ad51f25eabe6bb19ba6248a040d7622594b0d09ee77dec571d7280a",
+                "sha256:380bbd6c07f747d87893a529bf68351cf21efaa12042cbbcdc88e129ddb49169",
+                "sha256:48e65e19a6525f4b1a7715bac96abf02b4966879f100bacb978187769bf16c22",
+                "sha256:550008f277ef6440ce5d5fffc98f3ec28d52777f40ee631620a7d6328992be2a",
+                "sha256:101ab562255d691dc910f45b008c230c8bca0e033b49c9756f1c0428b3897a9f",
+                "sha256:b130b011d80c93f0cc92d27b052e9ca6f06aa41b2f9eb4bb2c42a4e12f5350cd",
+                "sha256:8f3d823a1e82b87bd375c1c8af9af2f2083cb1e786aad4b41db88db5d636654d",
+                "sha256:961e97350df85f8f1e8f0accbcbacb9c7772eee14dc3425a65149e16a92c0db4",
+                "sha256:55339f85eaa95448f35e99f7a67475a4306aec4bf810c79f0810f2cff9008a31",
+                "sha256:a0562dad58f107709b65e8162ed1b89bd44c3c0be3745d7bb5728cbbd4442a6f",
+                "sha256:0ac0f30256d39e37e241c70abf5ef66abc92ecd83bc18e0a986f2d4aaa34ca1e",
+                "sha256:f2019d3ba275ba54842ba2a1ac82e15b5e4eff0c7fa91e0d20c5d651e2cbf7eb",
+                "sha256:56a5fd77f8cb6921d3e283f98213bf8c163d3502a75b4a8e4a809a15654f7d1a",
                 "sha256:c9226d61d3bdbf9f09821b32f5878623b8daaa5fb4f875cb63c199f87a26d57e"
               ]
             },
@@ -74,25 +74,25 @@
               "simpleTags": [
                 "aspnetapp-windowsservercore-ltsc2022"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:eea2de16dd1434c94dd507d7c7f015ebf3dd073cf42e5e015d3e99967f0ebadc",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/aspnet@sha256:bb6135016b3474b768b30b2c4923821fd2d5598b58cdbfdf8c5b02a59a682780",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:da442d647c32b0142bf23a801965ee6d393fd77f2e3213dc56c4a0b3287f1c9b",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/aspnet@sha256:ea55a5760f998d0cd28da89800beefd0418f98c07c797411b8a19124180fdfdd",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2022",
               "architecture": "amd64",
-              "created": "2024-05-22T18:08:23.6483832Z",
+              "created": "2024-06-21T16:32:21.1078844Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/9ef55182e0cac3e60af377ea04aef3bd96f68253/samples/aspnetapp/Dockerfile",
               "layers": [
-                "sha256:d52bb5ba201d39de21223d524a8f4a533410f6ab864f5450e78e9b45829f40d0",
-                "sha256:777cb5047a28d5e60cf470a808fef4190f7feb892d8078213343815a82b62396",
-                "sha256:245b5d659e69ca50931edca1adeeb67151de69cc913b70dc3ea97c3c2f0fbeec",
-                "sha256:d20bb4d61ca445703c58ebf1755db6b002891a51e5e71ebacefe4b0960824193",
-                "sha256:d0b3f5e0a86f8c85a2bb90b7e5c32aac581a92ef7c02331a8509331bf3380b7f",
-                "sha256:493b75d42ec5f9bb37584baa65c6f58df615e49d32eb18d85e62d8afebc4f70d",
-                "sha256:e2c37b3ad2e82b98518d1b97476f68cd127f9aa9d200aef921eb54afac938f28",
-                "sha256:1191b7c153bb048613af889ba53493ad56af7a9159a9e7c7454ba631a0472a06",
-                "sha256:4e85897043e270e8c0aa1d601e3c053c09a49aac091467cfe76389d67507882a",
-                "sha256:e7b6405f82e3080277cba91ed179bdf2dd1cf930294ce6cb8e40831b10b54e36",
-                "sha256:ba03114511317f14392dd2ac806678d1f79c73a8a7e0bc64013540e54c22020f",
+                "sha256:abec3ad06fb4f15f862b137ce11e05b452695d33e6539f8b4cb009c4e69b2420",
+                "sha256:dcbf245f424df583f7041a69b1e0715a81fb25c8278a500a594ce43406411f52",
+                "sha256:723513de1369a045ef48e2d80d98b84ec4c7a33baaf9e92cd6fd86d2fba773aa",
+                "sha256:6217420fa5a2a66bb81cbeece244ecfda0ef53a1fc40614b5bfc5a08dfcec457",
+                "sha256:35e44f6f536a0fd14bc53316cb2032ded59888c512925e5a3e7913567c463a77",
+                "sha256:3b0e57eb3880060d79e6a473d04eaab251ca269fdd130ec94cdc2bfc7ba1f801",
+                "sha256:89f80cfea3a9423b3fd7c08aeeec4a6e91a718046b740b04e033cdbbbaeccf46",
+                "sha256:fbf6bd78cb6912928ce68d762abcebb186a0cc64ef7e438cc5b5e3aa124fff83",
+                "sha256:54d1653c74b4ccb5fe6d77a7fc369f6a7ecd17d43a7cf55ea494a8b36166b8f5",
+                "sha256:8426b23d3e641e34f9d2ca2943d307036772bd5f1ae28717b36e93b5188a2918",
+                "sha256:eb373ec9afdfc5f09b9380d981e0c61f9c7b48537b887135c7c66810086e705e",
                 "sha256:7c76e5cf7755ce357ffb737715b0da6799a50ea468cc252c094f4d915d426b3f"
               ]
             }
@@ -100,8 +100,8 @@
         },
         {
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:b7f7eebea70bce5cf5aa49d7e7d5ad4343c40d0f23af8ca51d31e0cd3f846c10",
-            "created": "2024-05-22T18:37:02.5925912Z",
+            "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:8da62476e7655e503e103c2a066fb329bc8b58c345c1f706e59bb08107810211",
+            "created": "2024-06-21T17:01:12.2814473Z",
             "sharedTags": [
               "dotnetapp",
               "latest"
@@ -113,20 +113,20 @@
               "simpleTags": [
                 "dotnetapp-windowsservercore-ltsc2016"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:45354c0222d0dafbc1e410c40e1f082521a3bd2539d5e53fdba4f301b3981f3c",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:a1195e671db3a2ba078df6a41d56ce299c4794e910648f15552f62bef1102588",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:3c4930079c7ff6c2dc6c3490328ec28ad2250c17065dda4097084ac82366f74e",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:1b16b4f5c3510d98d21c1e9745469e98a13b5bc87f3a8c4fd82de80877d494ed",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2016",
               "architecture": "amd64",
-              "created": "2024-05-22T18:13:17.8343389Z",
+              "created": "2024-06-21T16:37:30.204154Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/1af0ac81ce5b9ad2f4fd29c3c1956077571dc181/samples/dotnetapp/Dockerfile",
               "layers": [
-                "sha256:d4781fbc42c009d19b72d96a29d89a656e78b5778468cef2cd64106634ba7dc8",
-                "sha256:ecf156bb2e7ad52d30f1851e766dc971a16222a7c35392ce35eaaa33bf498094",
-                "sha256:c251d1035e0262fb8c10edf8ec78b3d9f4f8f060d9c26cb1fa9a5e7226b40672",
-                "sha256:fcbe1f68617318197f8922c8e611ea2102ec939b1be8ea80895d82fbf78b1526",
-                "sha256:6c4ca161acd7422ede9c893e807747f74fe375edf117f61aac55a9ed73800c6a",
-                "sha256:52bb1c4eaf97caddd95ab01e4c4f08c8b324ad061cb7560e447f0df277d61049",
+                "sha256:5e3b666cb877d1e43528a12de9ab855cecbf4dd1be0c40ff2b03cc887053af15",
+                "sha256:9750d418ab95b4445dd5fa30d5bd34715ea6230c48f7705cad1ff2ef4be45116",
+                "sha256:ca1cda8c6f3605c67dfd1dc4f778b60ad6510de8a4aab939d5501347798d0ef1",
+                "sha256:43553e02c3c37ba2cbc566f16a273e699e27a60236d4722bea3da7a8f1be7671",
+                "sha256:c1b61b22060bb86e74fa71e0c07dcf66f39e1887d5b7b33d00aacb5775ab1ddc",
+                "sha256:509e7414d067ec72162880bafd9fd7f56f4fc6520ee54f4d981cc401d230680c",
                 "sha256:010ca8045f7ed43016b902c6d72d6fb73cbba3827a25c4fe73c48c80394df874"
               ]
             },
@@ -135,20 +135,20 @@
               "simpleTags": [
                 "dotnetapp-windowsservercore-ltsc2019"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:3a021de48d71e38859e8578980c62366ee5faf8d81823b3ec596b413df72b53d",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:a1195e671db3a2ba078df6a41d56ce299c4794e910648f15552f62bef1102588",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:ca737d53c89eadbc781407e5af98b097d372922e0f788512e7d4d3095d5ecd59",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:1b16b4f5c3510d98d21c1e9745469e98a13b5bc87f3a8c4fd82de80877d494ed",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2019",
               "architecture": "amd64",
-              "created": "2024-05-22T18:06:21.3919899Z",
+              "created": "2024-06-21T16:26:03.4796709Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/1af0ac81ce5b9ad2f4fd29c3c1956077571dc181/samples/dotnetapp/Dockerfile",
               "layers": [
-                "sha256:2384695730b07c7c905d9fffe7575f8a590a1bca91e3e0875d457bd75fb29196",
-                "sha256:4e2290b186e2c153717f1cd6353f91044f85882e636e8a98335bf55c02e93390",
-                "sha256:22671fbbbf048b4191cd6ee7bb82d5407b8d06b5c625e68a7ac6b5aed5c2296b",
-                "sha256:f5d27d2708a58747c9d7041a3447923de14677e19e157853400437d8a0253c7e",
-                "sha256:a8f2073aa6dd3ece5a0ec3d652f48b61177fb5d04f0f01c52d1c4af3b50d3cc8",
-                "sha256:e00cc2568ad51f25eabe6bb19ba6248a040d7622594b0d09ee77dec571d7280a",
+                "sha256:a789430dd32d1d618396951cd04a51198de05fec70c19401baea711b8ec6d565",
+                "sha256:05c528d0bf6cab3ac4633fa14a6d007fe3ef4245bbca832764d26d219e361e4d",
+                "sha256:aea0e918558b711911139add943c29ac0678813c660fbedb625ba106b6ff7220",
+                "sha256:0ac0f30256d39e37e241c70abf5ef66abc92ecd83bc18e0a986f2d4aaa34ca1e",
+                "sha256:f2019d3ba275ba54842ba2a1ac82e15b5e4eff0c7fa91e0d20c5d651e2cbf7eb",
+                "sha256:56a5fd77f8cb6921d3e283f98213bf8c163d3502a75b4a8e4a809a15654f7d1a",
                 "sha256:c9226d61d3bdbf9f09821b32f5878623b8daaa5fb4f875cb63c199f87a26d57e"
               ]
             },
@@ -157,20 +157,20 @@
               "simpleTags": [
                 "dotnetapp-windowsservercore-ltsc2022"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:91de50fe08e1b1f9115ecd1a7daf15ac447d4921e091f5e6b25b6722a02fb2a0",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:a1195e671db3a2ba078df6a41d56ce299c4794e910648f15552f62bef1102588",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:c950c0b2a9bdae76c404b7235d440e24e8f2725e2c5937f126a03ccba0b6ea11",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:1b16b4f5c3510d98d21c1e9745469e98a13b5bc87f3a8c4fd82de80877d494ed",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2022",
               "architecture": "amd64",
-              "created": "2024-05-22T18:07:00.6548821Z",
+              "created": "2024-06-21T16:32:08.0300742Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/1af0ac81ce5b9ad2f4fd29c3c1956077571dc181/samples/dotnetapp/Dockerfile",
               "layers": [
-                "sha256:24529f127b9b6aa047c88b070606aa5c3f8edc2dd9c3236a7caac9e822a2fc07",
-                "sha256:c5fc2fbd6b7f38c333c01c4871aa13e7d221f2874d86afe25266af211f8413fd",
-                "sha256:5830e547b2870dce33d1e7f1244e8369fc1a720b0b26ef2aa9d85ae491772d16",
-                "sha256:4e85897043e270e8c0aa1d601e3c053c09a49aac091467cfe76389d67507882a",
-                "sha256:e7b6405f82e3080277cba91ed179bdf2dd1cf930294ce6cb8e40831b10b54e36",
-                "sha256:ba03114511317f14392dd2ac806678d1f79c73a8a7e0bc64013540e54c22020f",
+                "sha256:1dd51f1c8022b417027d0ff1ca59648aa3e365d83a5df2ba35286ea047e767b2",
+                "sha256:ce6f9844748a2a6dfb36aa5f89b4c0d678265fe12bc30139a69486ed78f1203d",
+                "sha256:55f46f32f2d0c4fa1800661d812d5100f423b31a1873530075a2d0067147c3f6",
+                "sha256:54d1653c74b4ccb5fe6d77a7fc369f6a7ecd17d43a7cf55ea494a8b36166b8f5",
+                "sha256:8426b23d3e641e34f9d2ca2943d307036772bd5f1ae28717b36e93b5188a2918",
+                "sha256:eb373ec9afdfc5f09b9380d981e0c61f9c7b48537b887135c7c66810086e705e",
                 "sha256:7c76e5cf7755ce357ffb737715b0da6799a50ea468cc252c094f4d915d426b3f"
               ]
             }
@@ -178,8 +178,8 @@
         },
         {
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:857f2caa5968f7a638f0302f28dbbf268cdd4b241260862905df45fc35395b5f",
-            "created": "2024-05-22T18:37:02.5925912Z",
+            "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:0c1118f6ae958c429b9c1ba7fce5b590bfa931e008b5dd383c77dfe0c7066a1b",
+            "created": "2024-06-21T17:01:12.2814473Z",
             "sharedTags": [
               "wcfclient"
             ]
@@ -190,20 +190,20 @@
               "simpleTags": [
                 "wcfclient-windowsservercore-ltsc2016"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:2b47c21f89230c127a627704083e42be9b394029f4028bea8bcd0b2135bcfbc6",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:a1195e671db3a2ba078df6a41d56ce299c4794e910648f15552f62bef1102588",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:145024be90de266640193b59ffb56d20033371f5fae54d9f4511289187d92a7f",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:1b16b4f5c3510d98d21c1e9745469e98a13b5bc87f3a8c4fd82de80877d494ed",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2016",
               "architecture": "amd64",
-              "created": "2024-05-22T18:10:01.8068966Z",
+              "created": "2024-06-21T16:32:17.6936431Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/d2b68d441d71df7615eeb8482419c2f975aa462e/samples/wcfapp/Dockerfile.client",
               "layers": [
-                "sha256:4daad25b40064d9ab4656b40222898396b884ae5317eb82881eb63d9f6555a75",
-                "sha256:d9e6e0cf128ccbcc1fba9ce4568d2095ba212c82774b8ad9fba5921194f1a6f9",
-                "sha256:0bd89da3575fa34ee374d7d94d50c4cc63a13d6d7d449ace8a7eb2bf623b7960",
-                "sha256:fcbe1f68617318197f8922c8e611ea2102ec939b1be8ea80895d82fbf78b1526",
-                "sha256:6c4ca161acd7422ede9c893e807747f74fe375edf117f61aac55a9ed73800c6a",
-                "sha256:52bb1c4eaf97caddd95ab01e4c4f08c8b324ad061cb7560e447f0df277d61049",
+                "sha256:c183b3c72c3493346414cb021820a177b188b5438cf6f08d45368f8c0da72519",
+                "sha256:6e2b230882497c8c18755d77d5e0b584c2e87b23ada312990a447fbabf5a8ca9",
+                "sha256:0b5453e86fa858ebdcf68d9bc296697e7c8ed5f414674c30b00659dd2a594ecc",
+                "sha256:43553e02c3c37ba2cbc566f16a273e699e27a60236d4722bea3da7a8f1be7671",
+                "sha256:c1b61b22060bb86e74fa71e0c07dcf66f39e1887d5b7b33d00aacb5775ab1ddc",
+                "sha256:509e7414d067ec72162880bafd9fd7f56f4fc6520ee54f4d981cc401d230680c",
                 "sha256:010ca8045f7ed43016b902c6d72d6fb73cbba3827a25c4fe73c48c80394df874"
               ]
             },
@@ -212,20 +212,20 @@
               "simpleTags": [
                 "wcfclient-windowsservercore-ltsc2019"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:70b86dcf5c2097f1297d80a6a0e66b84a378eb0c5ecf5e6530d9b6d12b1ae73a",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:a1195e671db3a2ba078df6a41d56ce299c4794e910648f15552f62bef1102588",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:849ebe9dd482e55cc7f6d113d2f9b2437f1b7b60aacdb14ba5eab190117f787f",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:1b16b4f5c3510d98d21c1e9745469e98a13b5bc87f3a8c4fd82de80877d494ed",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2019",
               "architecture": "amd64",
-              "created": "2024-05-22T18:00:15.6495255Z",
+              "created": "2024-06-21T16:26:56.3280283Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/d2b68d441d71df7615eeb8482419c2f975aa462e/samples/wcfapp/Dockerfile.client",
               "layers": [
-                "sha256:e2b0ed63bb1d69b0c52a3fbc48325b78839e893c106f451848ddf9321234a6e6",
-                "sha256:81a0a26d851d76adacf20a6ca3bcebc4fc41b76d33fb7793343ccdd1279426dd",
-                "sha256:10ceb9837fb61eea3e917d114a4442db2feb6af27edbbcddec99692320e0feb8",
-                "sha256:f5d27d2708a58747c9d7041a3447923de14677e19e157853400437d8a0253c7e",
-                "sha256:a8f2073aa6dd3ece5a0ec3d652f48b61177fb5d04f0f01c52d1c4af3b50d3cc8",
-                "sha256:e00cc2568ad51f25eabe6bb19ba6248a040d7622594b0d09ee77dec571d7280a",
+                "sha256:f7eddffb4d8c424b9b72477e06dfebaa3c60673322a56e9d7c8d556ad6181f53",
+                "sha256:6ac17d38b1b4d94b7950270ddd7b5c29636d92dd197128a20b3814cecdc4a63d",
+                "sha256:8c98d0e29b2ffd185b13144f2f24d177ca14200279add135d86764a25f08ead5",
+                "sha256:0ac0f30256d39e37e241c70abf5ef66abc92ecd83bc18e0a986f2d4aaa34ca1e",
+                "sha256:f2019d3ba275ba54842ba2a1ac82e15b5e4eff0c7fa91e0d20c5d651e2cbf7eb",
+                "sha256:56a5fd77f8cb6921d3e283f98213bf8c163d3502a75b4a8e4a809a15654f7d1a",
                 "sha256:c9226d61d3bdbf9f09821b32f5878623b8daaa5fb4f875cb63c199f87a26d57e"
               ]
             },
@@ -234,20 +234,20 @@
               "simpleTags": [
                 "wcfclient-windowsservercore-ltsc2022"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:3acd14144abcc2914332720dd490f4ad27025773a6599a22cf5edd160ff9a093",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:a1195e671db3a2ba078df6a41d56ce299c4794e910648f15552f62bef1102588",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:baa25bb4f1f1ce269db2b92354e76577219be137e8411a51dfce52c09c04cb2f",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/runtime@sha256:1b16b4f5c3510d98d21c1e9745469e98a13b5bc87f3a8c4fd82de80877d494ed",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2022",
               "architecture": "amd64",
-              "created": "2024-05-22T18:08:26.5452441Z",
+              "created": "2024-06-21T16:30:54.489605Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/d2b68d441d71df7615eeb8482419c2f975aa462e/samples/wcfapp/Dockerfile.client",
               "layers": [
-                "sha256:88e365cf698d98c18de94823a6cfac0699975e95e795def68f09c3f7ec1828ac",
-                "sha256:9646a2e798c7bcaace9ea73b75f2241bb0264e17f0496d9ff35cf3d2e6eedbeb",
-                "sha256:da52605c94ed77586bb3999ecd2d62603887263b0ab23bc9b661f0f08f39fce5",
-                "sha256:4e85897043e270e8c0aa1d601e3c053c09a49aac091467cfe76389d67507882a",
-                "sha256:e7b6405f82e3080277cba91ed179bdf2dd1cf930294ce6cb8e40831b10b54e36",
-                "sha256:ba03114511317f14392dd2ac806678d1f79c73a8a7e0bc64013540e54c22020f",
+                "sha256:1579d0826d221269ba8850718ec762db5aa08c55ab90295bf43513b17139931a",
+                "sha256:5f8e316efb2548fb0e0cab5a6a0543a1911366d8a7c1450257fa2bec6be242b3",
+                "sha256:2d423576247477368ee0095b551c1498fcdc9c540e3e22240a33682eb4a5e6ad",
+                "sha256:54d1653c74b4ccb5fe6d77a7fc369f6a7ecd17d43a7cf55ea494a8b36166b8f5",
+                "sha256:8426b23d3e641e34f9d2ca2943d307036772bd5f1ae28717b36e93b5188a2918",
+                "sha256:eb373ec9afdfc5f09b9380d981e0c61f9c7b48537b887135c7c66810086e705e",
                 "sha256:7c76e5cf7755ce357ffb737715b0da6799a50ea468cc252c094f4d915d426b3f"
               ]
             }
@@ -255,8 +255,8 @@
         },
         {
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:04203f173e25072389e9ab1c0f9d94d38915f32efe06302b8798e31e011e7ca7",
-            "created": "2024-05-22T18:37:02.5925912Z",
+            "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:8fb999b6eba294a781c94f5d334ad521f808f0cf34a8d22e5759ef9d988629dd",
+            "created": "2024-06-21T17:01:12.2814473Z",
             "sharedTags": [
               "wcfservice"
             ]
@@ -267,29 +267,29 @@
               "simpleTags": [
                 "wcfservice-windowsservercore-ltsc2016"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:1400ef002bcfd2d2bd837678e8615fb5ed051af3245f5a30d7f9b542cc86358f",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/wcf@sha256:414a36a149d93d451dd5c70361e6d2812d5f128629a52be65c2ffd4c21ad53fb",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:aa4dd8c702e7e6ef5d2f3e88ad0cb8a7ae09d0837ff18030d7f326a5c6f23f21",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/wcf@sha256:9293561072f394bc2db3e82b4fb5fbc1e3a57b9bf525f2c245db7f169066154f",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2016",
               "architecture": "amd64",
-              "created": "2024-05-22T18:13:05.4478832Z",
+              "created": "2024-06-21T16:37:57.4879742Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/d2b68d441d71df7615eeb8482419c2f975aa462e/samples/wcfapp/Dockerfile.web",
               "layers": [
-                "sha256:05125b9569e4c5021c4f688ad2d963baa6da10d0a1e40aeeb979786486f27c5b",
-                "sha256:b72ad02815958262d9efd49bd6de0aa37a8be78d6fe0db34b0104587f3737c9d",
-                "sha256:874e608839f0aafd52b02cf8b6f5367973ad75fd195439010383e515c2c4b548",
-                "sha256:379fa47f5674f859b81118bad78b4d00e75cefae88e285b9eeb8f3163548ed84",
-                "sha256:6543868833fb203b3a270ffec28c8242f6cd16ccd6b13c84fb41b15039d15f30",
-                "sha256:a8df15e571b5a992332dcb948e97ec59b98a697c1bf524f60312776223960187",
-                "sha256:9e84322fed11d221a4fdf21a6793a52e0d8e99b9db0a3ce3262e9eacee964ef5",
-                "sha256:5c1746cbf062d19ca4bad8a555e740a3ba9f86fe053be885f174f47e282c5d62",
-                "sha256:9d838c88bece863cfbc8c0f6d5c18932551bfb53efc2b168cb577457c39ac2bc",
-                "sha256:2954e510bfaf7662124a7fd01b6aa17adbf15ee740d1778b3b95cf60b267dba2",
-                "sha256:b8a04d3e396dd98c5a048e5c64e91d7758cb0daecda368ab838a3a562874d066",
-                "sha256:581bc52e86490b8236f8e92ab436fd5487346241c18259fbab0cd6e4b1eb6925",
-                "sha256:fcbe1f68617318197f8922c8e611ea2102ec939b1be8ea80895d82fbf78b1526",
-                "sha256:6c4ca161acd7422ede9c893e807747f74fe375edf117f61aac55a9ed73800c6a",
-                "sha256:52bb1c4eaf97caddd95ab01e4c4f08c8b324ad061cb7560e447f0df277d61049",
+                "sha256:dce7ef71532db07b50de9dde873141432c36aefb1abc847a7afd9eca2f3fbab1",
+                "sha256:b041c8a669613cbbcb49da93770b46ca171a88a473c89ef219f2b0f9bd0fa6c3",
+                "sha256:8e64f6535f35813af83dc2ac837b6f6d7aa0dc06dc65ad165926b3d34bc8114d",
+                "sha256:481a03adf04385cbe114ad6d92eda6d152a64bf6af76a6a3910c017821503fbd",
+                "sha256:4d78038e5b42d24fd03f2fc43c6e72a9c8b3978af1294074403effb03e8884c2",
+                "sha256:8d43c569103b321fdd49790d1c48c285d0e3a85f1c7eeabdd3966ac25561ac0b",
+                "sha256:88c038aeb6d85a137b72a5943583adf18a05d075f230cd778ba983913998e622",
+                "sha256:10744d02478769f5bedf5e205dbb642babb52816298c1c432a06ff4db6cc51cb",
+                "sha256:bd7f38c9eb1c7a5a1a51e89e2b01e4d1fbaee160b396e16f4079f201ef44c513",
+                "sha256:15db57e02eac1c54ad0840b32421dbaeb3f159dd16f447cb63d5d888db6e00dd",
+                "sha256:2ce0722e6144aac6f8465ab84b8dab12df6a8ea9b2e58d91237602633112d360",
+                "sha256:bdee4b4f32089233c8234ff8160b77eda5ef48ce9167c217b5c68d485bafd676",
+                "sha256:43553e02c3c37ba2cbc566f16a273e699e27a60236d4722bea3da7a8f1be7671",
+                "sha256:c1b61b22060bb86e74fa71e0c07dcf66f39e1887d5b7b33d00aacb5775ab1ddc",
+                "sha256:509e7414d067ec72162880bafd9fd7f56f4fc6520ee54f4d981cc401d230680c",
                 "sha256:010ca8045f7ed43016b902c6d72d6fb73cbba3827a25c4fe73c48c80394df874"
               ]
             },
@@ -298,29 +298,29 @@
               "simpleTags": [
                 "wcfservice-windowsservercore-ltsc2019"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:9a13dfc758da6c2eb174cb7a3baedfa69654b2cbdab5f468820170881d77c61e",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/wcf@sha256:414a36a149d93d451dd5c70361e6d2812d5f128629a52be65c2ffd4c21ad53fb",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:4b13237d6ecbac0cb347c1d89b6f5f8ca437cc220d992ba4e74b07e1ba919db6",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/wcf@sha256:9293561072f394bc2db3e82b4fb5fbc1e3a57b9bf525f2c245db7f169066154f",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2019",
               "architecture": "amd64",
-              "created": "2024-05-22T18:04:44.1304567Z",
+              "created": "2024-06-21T16:27:53.7504029Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/d2b68d441d71df7615eeb8482419c2f975aa462e/samples/wcfapp/Dockerfile.web",
               "layers": [
-                "sha256:ffebd6b1528a981033cf4f3dbc6f058a5c7f7bd77bf5faeb3c871ccddcbaed84",
-                "sha256:d1cb76621a565c2f63ce7efa085394907caec528074060395234826290c28da9",
-                "sha256:80d00c68b424267e161c9ce99f5c3145e765bfab6d24e716ec9b52fd64d1cd54",
-                "sha256:aa0920a12e8e4b1f5b011c05adba0206cfaa8de5c485681002ae7bca4590ddb8",
-                "sha256:bb97d1b432b4aad318534c8bc8ddb75740ef8862c6abf2f47b00276d0f0ce680",
-                "sha256:6ec0153dd118db91d9028e8f3bd06eb29cd6bef580a6e90a0ba6d583abcb0e16",
-                "sha256:b2f9f0fdaf160116d759626add972a7861ba9560b066ab4668cd9378b896851c",
-                "sha256:2f13498fb970a2630dad730affd246daed11219724746fd8a1938f0214e73d64",
-                "sha256:91b01360bbe74c72c90a7f13a45c2637885d1cd1892a5e1949a1a79cdff9e0fe",
-                "sha256:344775b0fa5469505f0a38330f6b4f303d97342e9a4b669aa08ae9301c29eaa2",
-                "sha256:9d775e253c29be3c11bb70b4d8c4aeb99810e2c8108d4fe5fc17695ed73329c3",
-                "sha256:a1d02419306ae6bbe1b496dcaf8029f89d6f061f582b8dfd2d1b2cb54694eb15",
-                "sha256:f5d27d2708a58747c9d7041a3447923de14677e19e157853400437d8a0253c7e",
-                "sha256:a8f2073aa6dd3ece5a0ec3d652f48b61177fb5d04f0f01c52d1c4af3b50d3cc8",
-                "sha256:e00cc2568ad51f25eabe6bb19ba6248a040d7622594b0d09ee77dec571d7280a",
+                "sha256:18e06180fe0eab0d47dfb238d72859e8ecd550853c20bed9a219518d31e9c085",
+                "sha256:5bc63a515e2a4dc47feeaebf22a61dc2bbd5e9dba91313e1858f1e07cd424d74",
+                "sha256:486e42a5669b9aa4e46111e6baf349141e0284a0e551e3fc51b7ab19f7bf0e9f",
+                "sha256:a7e180fcd00460b638af7a79e06958887ef7ce840762add913369965c4175bee",
+                "sha256:0c795c28d2ee4df95d872679f05e4b12130f220fb80ad96cc2fd6bf8dd04d3fa",
+                "sha256:550008f277ef6440ce5d5fffc98f3ec28d52777f40ee631620a7d6328992be2a",
+                "sha256:101ab562255d691dc910f45b008c230c8bca0e033b49c9756f1c0428b3897a9f",
+                "sha256:b130b011d80c93f0cc92d27b052e9ca6f06aa41b2f9eb4bb2c42a4e12f5350cd",
+                "sha256:8f3d823a1e82b87bd375c1c8af9af2f2083cb1e786aad4b41db88db5d636654d",
+                "sha256:961e97350df85f8f1e8f0accbcbacb9c7772eee14dc3425a65149e16a92c0db4",
+                "sha256:55339f85eaa95448f35e99f7a67475a4306aec4bf810c79f0810f2cff9008a31",
+                "sha256:a0562dad58f107709b65e8162ed1b89bd44c3c0be3745d7bb5728cbbd4442a6f",
+                "sha256:0ac0f30256d39e37e241c70abf5ef66abc92ecd83bc18e0a986f2d4aaa34ca1e",
+                "sha256:f2019d3ba275ba54842ba2a1ac82e15b5e4eff0c7fa91e0d20c5d651e2cbf7eb",
+                "sha256:56a5fd77f8cb6921d3e283f98213bf8c163d3502a75b4a8e4a809a15654f7d1a",
                 "sha256:c9226d61d3bdbf9f09821b32f5878623b8daaa5fb4f875cb63c199f87a26d57e"
               ]
             },
@@ -329,28 +329,28 @@
               "simpleTags": [
                 "wcfservice-windowsservercore-ltsc2022"
               ],
-              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:6b840b93ae16a91cb632d82fecf8da42fa4375aa09a3712a8c7e9451b912bc33",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/wcf@sha256:414a36a149d93d451dd5c70361e6d2812d5f128629a52be65c2ffd4c21ad53fb",
+              "digest": "mcr.microsoft.com/dotnet/framework/samples@sha256:1682c3fbf17fc67cbf62256c25ace0f74e5a10d7b3151be0ae8ebb9d20778498",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/framework/wcf@sha256:9293561072f394bc2db3e82b4fb5fbc1e3a57b9bf525f2c245db7f169066154f",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2022",
               "architecture": "amd64",
-              "created": "2024-05-22T18:07:49.5101365Z",
+              "created": "2024-06-21T16:32:20.4058482Z",
               "commitUrl": "https://github.com/microsoft/dotnet-framework-docker/blob/d2b68d441d71df7615eeb8482419c2f975aa462e/samples/wcfapp/Dockerfile.web",
               "layers": [
-                "sha256:ab430ebead7a8532b3bbd355bef5fd262cfdc86ccd89024ba49eb5b939d3300b",
-                "sha256:7ccd01e1395e438006ddc07c04f950638ad046b449fd5331551c4ae96a08e2ce",
-                "sha256:97b385ff64571b82f58be98461f89fc8a6350d790fd8735cf6f1a37155ecac2a",
-                "sha256:9606785d6c1b2f6f4f5c9a61f42b42558c9320a85a4306fab06ea2344e400cc2",
-                "sha256:a6d51310c71d02663e04979faef03b6fd8a7600a216115cc437cf724b932bf26",
-                "sha256:245b5d659e69ca50931edca1adeeb67151de69cc913b70dc3ea97c3c2f0fbeec",
-                "sha256:d20bb4d61ca445703c58ebf1755db6b002891a51e5e71ebacefe4b0960824193",
-                "sha256:d0b3f5e0a86f8c85a2bb90b7e5c32aac581a92ef7c02331a8509331bf3380b7f",
-                "sha256:493b75d42ec5f9bb37584baa65c6f58df615e49d32eb18d85e62d8afebc4f70d",
-                "sha256:e2c37b3ad2e82b98518d1b97476f68cd127f9aa9d200aef921eb54afac938f28",
-                "sha256:1191b7c153bb048613af889ba53493ad56af7a9159a9e7c7454ba631a0472a06",
-                "sha256:4e85897043e270e8c0aa1d601e3c053c09a49aac091467cfe76389d67507882a",
-                "sha256:e7b6405f82e3080277cba91ed179bdf2dd1cf930294ce6cb8e40831b10b54e36",
-                "sha256:ba03114511317f14392dd2ac806678d1f79c73a8a7e0bc64013540e54c22020f",
+                "sha256:99a82831965d801064628d093f4892c614dd22b7c7b4548a1d7d7d65602c5a63",
+                "sha256:f2aa905b7d24be454ef7abcb34d11d01002ce52aad4b461df8055349d228a184",
+                "sha256:0c237c87ded6d12dd81bb74f39936b1635d7e02fb7328aa49438fe9dbd1318e9",
+                "sha256:2ac3cea4d0ee8c938728f56c37ff778c25f89d6c2490bf1569de07d98ec3aca9",
+                "sha256:6936a79ae6559a11470ee70146dea2c3a6168854f82ba7d7ed736497db6fac67",
+                "sha256:723513de1369a045ef48e2d80d98b84ec4c7a33baaf9e92cd6fd86d2fba773aa",
+                "sha256:6217420fa5a2a66bb81cbeece244ecfda0ef53a1fc40614b5bfc5a08dfcec457",
+                "sha256:35e44f6f536a0fd14bc53316cb2032ded59888c512925e5a3e7913567c463a77",
+                "sha256:3b0e57eb3880060d79e6a473d04eaab251ca269fdd130ec94cdc2bfc7ba1f801",
+                "sha256:89f80cfea3a9423b3fd7c08aeeec4a6e91a718046b740b04e033cdbbbaeccf46",
+                "sha256:fbf6bd78cb6912928ce68d762abcebb186a0cc64ef7e438cc5b5e3aa124fff83",
+                "sha256:54d1653c74b4ccb5fe6d77a7fc369f6a7ecd17d43a7cf55ea494a8b36166b8f5",
+                "sha256:8426b23d3e641e34f9d2ca2943d307036772bd5f1ae28717b36e93b5188a2918",
+                "sha256:eb373ec9afdfc5f09b9380d981e0c61f9c7b48537b887135c7c66810086e705e",
                 "sha256:7c76e5cf7755ce357ffb737715b0da6799a50ea468cc252c094f4d915d426b3f"
               ]
             }
