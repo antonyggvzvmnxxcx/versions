@@ -6661,8 +6661,8 @@
         {
           "productVersion": "8.0.24",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:1e7e437390de6c08d7ad656d3e8b984a167c060b3794cd73b50696d07baa33cd",
-            "created": "2026-02-12T21:25:27.6484159Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:8bfb78cb27e2ecc185d617e2e36f1985f1d1540e00192e655d1079bb39b87315",
+            "created": "2026-02-24T13:24:42.3821906Z",
             "sharedTags": [
               "8.0-jammy",
               "8.0.24-jammy"
@@ -6675,37 +6675,37 @@
                 "8.0-jammy-amd64",
                 "8.0.24-jammy-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:faffa4b46139a337924ebcb09cdc4d9a8834654a82e1f9003023ad34d8237c39",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:bd55b1c82dff36381e7b839d5835c34ca6a8c381fb29adeaf73b4dde07ee1aec",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:0db49c0d7051044dae1fdf4ae9e851f30c1337ce139b2ef67e51556032360737",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:df710f9e8aef16cf518fc09cc3bfeee1fce1bc09b6be1d2a73ff7837ae794676",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "amd64",
-              "created": "2026-02-12T20:02:56.8396678Z",
+              "created": "2026-02-24T12:31:45.9120684Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/aspnet/8.0/jammy/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:b864bc32d9adf8ed298f25009a12839d57828082698e956369c6ef6939595f54",
-                  "size": 11089632
+                  "digest": "sha256:0856692f74d7b89b1feb8a7a672e8c5813fbd21dc5769434e9e239974b963135",
+                  "size": 11089642
                 },
                 {
-                  "digest": "sha256:8dac7ee0eb69e8f15764236fed4c5bac1682a5365054616fd56d7b7615ed20a2",
+                  "digest": "sha256:921b16b34bd467ac15d72ee876ce37fbc41dec68d16c33c3d99fa07b28b30b7a",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:23361521a09a7fa4e23e066964609f836f113b3645a208ee09215416acd62a99",
-                  "size": 32249400
+                  "digest": "sha256:fe2281e660830238e45dcaad7d5db7986f9889b380a8b566c0c3cbe53e608764",
+                  "size": 32249374
                 },
                 {
-                  "digest": "sha256:b43a7eb8876c1a0650311a31e8d7f091e16917612c13a320469ffc9622d8dd82",
-                  "size": 3527
+                  "digest": "sha256:870e75cb7c7aa2b466a7dcb3a9e5441127bcb9a4dcc2fedb74d9fafd0787fb9d",
+                  "size": 3522
                 },
                 {
-                  "digest": "sha256:61b1c160e42a05d54445f30dbb838c0b42c2f9b3619e0de6aab03c75a3445e3d",
-                  "size": 16703594
+                  "digest": "sha256:2c0af0098bf37fc8bde8a8dc736912acbf04768cb6ac3f95f08843798f8c9aaf",
+                  "size": 16703454
                 },
                 {
-                  "digest": "sha256:b1cba2e842ca52b95817f958faf99734080c78e92e43ce609cde9244867b49ed",
-                  "size": 29537366
+                  "digest": "sha256:96c832531c38e688c852576582a5ab43a21815c743665a03b6b066c850ed1522",
+                  "size": 29538520
                 }
               ]
             },
@@ -6715,37 +6715,37 @@
                 "8.0-jammy-arm32v7",
                 "8.0.24-jammy-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:7d4bd30a10df37e2807a03e9f3d860c647113770fec0b9faa089bcc64a330f8d",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:3be8e61acecd3f57b5c929d89f07a529ee7fb5de849830fa3cdf3f19123a978a",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:cb2275fe37d60b250788ced076462d8f301ad462f8c7b22c865b351d50869a94",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:b61b84313c01754fb7e8b6334fdd5af761f0d9423a21cf2bbabbc5e521a71f95",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "arm32",
-              "created": "2026-02-12T19:59:15.1119021Z",
+              "created": "2026-02-24T12:30:36.3479915Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/aspnet/8.0/jammy/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:527ee0af166d43094beead202657fad4d6c23df1a89a75ec94b0ec132d2e70bd",
-                  "size": 11022711
+                  "digest": "sha256:d8867c39a782152f36390fd723704677a57d789fbfc5185b638018e4d5575368",
+                  "size": 11022693
                 },
                 {
-                  "digest": "sha256:e034707ed93856dbf24b0260f7c980bf860b2f24be32ccbe85480884c9f8b8b5",
+                  "digest": "sha256:d8375d2be5f7028e18ec113c748564cc1a5da70f9f029459d2f42cea0fcab631",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:51b07954e2739fda68fec037490026db39025b5008d97e4e8b8b8229edffdcbd",
-                  "size": 30265964
+                  "digest": "sha256:6470c4f4ab3fc51c42e6ad5d996c903c14c01c0d888192dab857241ecb784917",
+                  "size": 30265987
                 },
                 {
-                  "digest": "sha256:e3478107b331052de79e0173467c7677e12639bf7288c92b57f7ab03421608ed",
-                  "size": 3548
+                  "digest": "sha256:9cea3e048501efb17a13db8f55ed0f0be2f41173db191b9e9ab0e3ea8602130c",
+                  "size": 3556
                 },
                 {
-                  "digest": "sha256:9796e07a3781cb959823fc7e9599e6eb63a3217bf84bf78b20920c4d35b54903",
-                  "size": 16174468
+                  "digest": "sha256:378c8d2e703f1795a9d5149bb16270b6715cb316ec3644729795e655ea55413e",
+                  "size": 16174502
                 },
                 {
-                  "digest": "sha256:8994f3e4ab606dcbf77ca1a5364851191cbe725563408ee7cd2a667cb364bed0",
-                  "size": 26644404
+                  "digest": "sha256:d411674a4afc7be17053720e1c67deb36aff030c844d1520a78ec3bea5895fbb",
+                  "size": 26647217
                 }
               ]
             },
@@ -6755,37 +6755,37 @@
                 "8.0-jammy-arm64v8",
                 "8.0.24-jammy-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f1f199e5e0f7455f95ee8025fcee3fa4859713f9ca60d30daabfc721e43f8f20",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:46ec913468f2c9d41d884a48fdc75caeac4367f6471eaabf436c881f857d7bb0",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:e834844163880cdd887983245da0dbff76685d3e06fd264b7f640d83f3fc357b",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:eac91775e6a64fad19f52bde44132c39822d49f59ac5ed6edb152bb036d5096e",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "arm64",
-              "created": "2026-02-12T20:01:19.7420896Z",
+              "created": "2026-02-24T12:28:03.9670232Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/aspnet/8.0/jammy/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:80292965277ac2ac104721f5403590b49876a190c05176d4105cfbab0fc70222",
-                  "size": 10756421
+                  "digest": "sha256:2bf3d4fc19ed4658e561797dde5a15256e16b6a5c96fb7ca7cdf1b68e1141aac",
+                  "size": 10756440
                 },
                 {
-                  "digest": "sha256:6337fee135456d0b11596bbe6ae51cc903dff87e757faaec7440cf30cfcd5b77",
-                  "size": 154
+                  "digest": "sha256:03a80a55fe056f24a8476837541458d3f7754b55d2914a963a04026b9dceee2b",
+                  "size": 155
                 },
                 {
-                  "digest": "sha256:3710e3425dc35253b230826ca20e68a6d50efc608cca3e4bdaa7d15a401486b3",
-                  "size": 30828582
+                  "digest": "sha256:9e31c1fa38a42f025009aaee5f1445d8cf8172abd454c8feb74830efd824dbd2",
+                  "size": 30828583
                 },
                 {
-                  "digest": "sha256:bd7e8530b6b3c4ecc1b52ed77df07685477d4051d5e3e356a895f44e5787ddf1",
+                  "digest": "sha256:6422db178c24585d14aca19eed595e6a630b9cbfba2fc43b025cd455f592e3a0",
                   "size": 3548
                 },
                 {
-                  "digest": "sha256:5d921f8fb279a3c5b4cdaa699c4a8fb012f1ae863f7319b8caabee2a051a4b34",
-                  "size": 16630805
+                  "digest": "sha256:5042ae3cbed6da12723032d49d3d4fe56ed7dd3a34867115ca75338ff1a45122",
+                  "size": 16630619
                 },
                 {
-                  "digest": "sha256:c36472b3458398be28ecbfebbaac44143c040eae73411baded48a22060d3055b",
-                  "size": 27384944
+                  "digest": "sha256:cf67f3f0b7b3a837aac5c0be2974a3574a6b600345d9528def747c7e01fda2b8",
+                  "size": 27389025
                 }
               ]
             }
@@ -14545,8 +14545,8 @@
         {
           "productVersion": "8.0.24",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:7c78dc94585e502450660709e097ecc2e65a62894ec055923b53ef5953d05fbb",
-            "created": "2026-02-12T21:25:27.6484159Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:49cdd9bcce6fcee7f16e9b3f67f51a97c790bb241e38ccc2252c7f1d01977d18",
+            "created": "2026-02-24T13:24:42.3821906Z",
             "sharedTags": [
               "8.0-jammy",
               "8.0.24-jammy"
@@ -14559,33 +14559,33 @@
                 "8.0-jammy-amd64",
                 "8.0.24-jammy-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:bd55b1c82dff36381e7b839d5835c34ca6a8c381fb29adeaf73b4dde07ee1aec",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:4c64b6af332c58932a0d1cb452245f1b14d588e4030e7ffcdde23fead383660e",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:df710f9e8aef16cf518fc09cc3bfeee1fce1bc09b6be1d2a73ff7837ae794676",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:93497a5fb3d12fd5d89904afd38aa8d8e10d87c0417fd1a29c814e7a0afa3dba",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "amd64",
-              "created": "2026-02-12T20:02:35.9132221Z",
+              "created": "2026-02-24T12:31:39.7897332Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/runtime/8.0/jammy/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:8dac7ee0eb69e8f15764236fed4c5bac1682a5365054616fd56d7b7615ed20a2",
+                  "digest": "sha256:921b16b34bd467ac15d72ee876ce37fbc41dec68d16c33c3d99fa07b28b30b7a",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:23361521a09a7fa4e23e066964609f836f113b3645a208ee09215416acd62a99",
-                  "size": 32249400
+                  "digest": "sha256:fe2281e660830238e45dcaad7d5db7986f9889b380a8b566c0c3cbe53e608764",
+                  "size": 32249374
                 },
                 {
-                  "digest": "sha256:b43a7eb8876c1a0650311a31e8d7f091e16917612c13a320469ffc9622d8dd82",
-                  "size": 3527
+                  "digest": "sha256:870e75cb7c7aa2b466a7dcb3a9e5441127bcb9a4dcc2fedb74d9fafd0787fb9d",
+                  "size": 3522
                 },
                 {
-                  "digest": "sha256:61b1c160e42a05d54445f30dbb838c0b42c2f9b3619e0de6aab03c75a3445e3d",
-                  "size": 16703594
+                  "digest": "sha256:2c0af0098bf37fc8bde8a8dc736912acbf04768cb6ac3f95f08843798f8c9aaf",
+                  "size": 16703454
                 },
                 {
-                  "digest": "sha256:b1cba2e842ca52b95817f958faf99734080c78e92e43ce609cde9244867b49ed",
-                  "size": 29537366
+                  "digest": "sha256:96c832531c38e688c852576582a5ab43a21815c743665a03b6b066c850ed1522",
+                  "size": 29538520
                 }
               ]
             },
@@ -14595,33 +14595,33 @@
                 "8.0-jammy-arm32v7",
                 "8.0.24-jammy-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:3be8e61acecd3f57b5c929d89f07a529ee7fb5de849830fa3cdf3f19123a978a",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:18ef928e366a42eb7ce91375d66e88d22c5e7bc21d18e7c559e774bc9168881a",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:b61b84313c01754fb7e8b6334fdd5af761f0d9423a21cf2bbabbc5e521a71f95",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:be8c091e382da2c4cbb2b05db82808e9f414bc5be120d8b24ae0e0bc1a7dd8ab",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "arm32",
-              "created": "2026-02-12T19:58:44.4103924Z",
+              "created": "2026-02-24T12:30:28.8834972Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/runtime/8.0/jammy/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:e034707ed93856dbf24b0260f7c980bf860b2f24be32ccbe85480884c9f8b8b5",
+                  "digest": "sha256:d8375d2be5f7028e18ec113c748564cc1a5da70f9f029459d2f42cea0fcab631",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:51b07954e2739fda68fec037490026db39025b5008d97e4e8b8b8229edffdcbd",
-                  "size": 30265964
+                  "digest": "sha256:6470c4f4ab3fc51c42e6ad5d996c903c14c01c0d888192dab857241ecb784917",
+                  "size": 30265987
                 },
                 {
-                  "digest": "sha256:e3478107b331052de79e0173467c7677e12639bf7288c92b57f7ab03421608ed",
-                  "size": 3548
+                  "digest": "sha256:9cea3e048501efb17a13db8f55ed0f0be2f41173db191b9e9ab0e3ea8602130c",
+                  "size": 3556
                 },
                 {
-                  "digest": "sha256:9796e07a3781cb959823fc7e9599e6eb63a3217bf84bf78b20920c4d35b54903",
-                  "size": 16174468
+                  "digest": "sha256:378c8d2e703f1795a9d5149bb16270b6715cb316ec3644729795e655ea55413e",
+                  "size": 16174502
                 },
                 {
-                  "digest": "sha256:8994f3e4ab606dcbf77ca1a5364851191cbe725563408ee7cd2a667cb364bed0",
-                  "size": 26644404
+                  "digest": "sha256:d411674a4afc7be17053720e1c67deb36aff030c844d1520a78ec3bea5895fbb",
+                  "size": 26647217
                 }
               ]
             },
@@ -14631,33 +14631,33 @@
                 "8.0-jammy-arm64v8",
                 "8.0.24-jammy-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:46ec913468f2c9d41d884a48fdc75caeac4367f6471eaabf436c881f857d7bb0",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:76a2d4853bab420a1a676bef7a62d4c0c8e70de269e17cac27dff5f1ca1749d0",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:eac91775e6a64fad19f52bde44132c39822d49f59ac5ed6edb152bb036d5096e",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:889836e0146c20864284b5bcbbe880d65b46aa7e1f73a38327b38670d6c94804",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "arm64",
-              "created": "2026-02-12T20:00:57.2742009Z",
+              "created": "2026-02-24T12:27:54.7725661Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/runtime/8.0/jammy/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:6337fee135456d0b11596bbe6ae51cc903dff87e757faaec7440cf30cfcd5b77",
-                  "size": 154
+                  "digest": "sha256:03a80a55fe056f24a8476837541458d3f7754b55d2914a963a04026b9dceee2b",
+                  "size": 155
                 },
                 {
-                  "digest": "sha256:3710e3425dc35253b230826ca20e68a6d50efc608cca3e4bdaa7d15a401486b3",
-                  "size": 30828582
+                  "digest": "sha256:9e31c1fa38a42f025009aaee5f1445d8cf8172abd454c8feb74830efd824dbd2",
+                  "size": 30828583
                 },
                 {
-                  "digest": "sha256:bd7e8530b6b3c4ecc1b52ed77df07685477d4051d5e3e356a895f44e5787ddf1",
+                  "digest": "sha256:6422db178c24585d14aca19eed595e6a630b9cbfba2fc43b025cd455f592e3a0",
                   "size": 3548
                 },
                 {
-                  "digest": "sha256:5d921f8fb279a3c5b4cdaa699c4a8fb012f1ae863f7319b8caabee2a051a4b34",
-                  "size": 16630805
+                  "digest": "sha256:5042ae3cbed6da12723032d49d3d4fe56ed7dd3a34867115ca75338ff1a45122",
+                  "size": 16630619
                 },
                 {
-                  "digest": "sha256:c36472b3458398be28ecbfebbaac44143c040eae73411baded48a22060d3055b",
-                  "size": 27384944
+                  "digest": "sha256:cf67f3f0b7b3a837aac5c0be2974a3574a6b600345d9528def747c7e01fda2b8",
+                  "size": 27389025
                 }
               ]
             }
@@ -19329,8 +19329,8 @@
         {
           "productVersion": "8.0.24",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:283f1705d6b7b942439fecd8e7288dc0c5d57e543a941574481ab9000ade6d64",
-            "created": "2026-02-12T21:25:27.6484159Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:ec6049044040c2a77a81ccec3097068448e3389925dbfd8a734a13c0fdebc3ad",
+            "created": "2026-02-24T13:24:42.3821906Z",
             "sharedTags": [
               "8.0-jammy",
               "8.0.24-jammy"
@@ -19343,25 +19343,25 @@
                 "8.0-jammy-amd64",
                 "8.0.24-jammy-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:4c64b6af332c58932a0d1cb452245f1b14d588e4030e7ffcdde23fead383660e",
-              "baseImageDigest": "ubuntu.azurecr.io/ubuntu@sha256:d469c7835bd74ed62aee5e5f61ab3f7dd87e154a9df7ecafff8bc3954d999d5c",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:93497a5fb3d12fd5d89904afd38aa8d8e10d87c0417fd1a29c814e7a0afa3dba",
+              "baseImageDigest": "ubuntu.azurecr.io/ubuntu@sha256:dfceaf45ec0029c0032d3c6f68cd428777658bed8d8e6d5cf7ded4f7e890052f",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "amd64",
-              "created": "2026-02-12T20:01:36.7625288Z",
+              "created": "2026-02-24T12:31:31.5963322Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/8.0/jammy/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:b43a7eb8876c1a0650311a31e8d7f091e16917612c13a320469ffc9622d8dd82",
-                  "size": 3527
+                  "digest": "sha256:870e75cb7c7aa2b466a7dcb3a9e5441127bcb9a4dcc2fedb74d9fafd0787fb9d",
+                  "size": 3522
                 },
                 {
-                  "digest": "sha256:61b1c160e42a05d54445f30dbb838c0b42c2f9b3619e0de6aab03c75a3445e3d",
-                  "size": 16703594
+                  "digest": "sha256:2c0af0098bf37fc8bde8a8dc736912acbf04768cb6ac3f95f08843798f8c9aaf",
+                  "size": 16703454
                 },
                 {
-                  "digest": "sha256:b1cba2e842ca52b95817f958faf99734080c78e92e43ce609cde9244867b49ed",
-                  "size": 29537366
+                  "digest": "sha256:96c832531c38e688c852576582a5ab43a21815c743665a03b6b066c850ed1522",
+                  "size": 29538520
                 }
               ]
             },
@@ -19371,25 +19371,25 @@
                 "8.0-jammy-arm32v7",
                 "8.0.24-jammy-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:18ef928e366a42eb7ce91375d66e88d22c5e7bc21d18e7c559e774bc9168881a",
-              "baseImageDigest": "ubuntu.azurecr.io/ubuntu@sha256:d469c7835bd74ed62aee5e5f61ab3f7dd87e154a9df7ecafff8bc3954d999d5c",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:be8c091e382da2c4cbb2b05db82808e9f414bc5be120d8b24ae0e0bc1a7dd8ab",
+              "baseImageDigest": "ubuntu.azurecr.io/ubuntu@sha256:dfceaf45ec0029c0032d3c6f68cd428777658bed8d8e6d5cf7ded4f7e890052f",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "arm32",
-              "created": "2026-02-12T19:57:31.4220023Z",
+              "created": "2026-02-24T12:30:18.8338383Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/8.0/jammy/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:e3478107b331052de79e0173467c7677e12639bf7288c92b57f7ab03421608ed",
-                  "size": 3548
+                  "digest": "sha256:9cea3e048501efb17a13db8f55ed0f0be2f41173db191b9e9ab0e3ea8602130c",
+                  "size": 3556
                 },
                 {
-                  "digest": "sha256:9796e07a3781cb959823fc7e9599e6eb63a3217bf84bf78b20920c4d35b54903",
-                  "size": 16174468
+                  "digest": "sha256:378c8d2e703f1795a9d5149bb16270b6715cb316ec3644729795e655ea55413e",
+                  "size": 16174502
                 },
                 {
-                  "digest": "sha256:8994f3e4ab606dcbf77ca1a5364851191cbe725563408ee7cd2a667cb364bed0",
-                  "size": 26644404
+                  "digest": "sha256:d411674a4afc7be17053720e1c67deb36aff030c844d1520a78ec3bea5895fbb",
+                  "size": 26647217
                 }
               ]
             },
@@ -19399,25 +19399,25 @@
                 "8.0-jammy-arm64v8",
                 "8.0.24-jammy-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:76a2d4853bab420a1a676bef7a62d4c0c8e70de269e17cac27dff5f1ca1749d0",
-              "baseImageDigest": "ubuntu.azurecr.io/ubuntu@sha256:d469c7835bd74ed62aee5e5f61ab3f7dd87e154a9df7ecafff8bc3954d999d5c",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:889836e0146c20864284b5bcbbe880d65b46aa7e1f73a38327b38670d6c94804",
+              "baseImageDigest": "ubuntu.azurecr.io/ubuntu@sha256:dfceaf45ec0029c0032d3c6f68cd428777658bed8d8e6d5cf7ded4f7e890052f",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "arm64",
-              "created": "2026-02-12T19:59:49.9499712Z",
+              "created": "2026-02-24T12:27:44.4548362Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/8.0/jammy/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:bd7e8530b6b3c4ecc1b52ed77df07685477d4051d5e3e356a895f44e5787ddf1",
+                  "digest": "sha256:6422db178c24585d14aca19eed595e6a630b9cbfba2fc43b025cd455f592e3a0",
                   "size": 3548
                 },
                 {
-                  "digest": "sha256:5d921f8fb279a3c5b4cdaa699c4a8fb012f1ae863f7319b8caabee2a051a4b34",
-                  "size": 16630805
+                  "digest": "sha256:5042ae3cbed6da12723032d49d3d4fe56ed7dd3a34867115ca75338ff1a45122",
+                  "size": 16630619
                 },
                 {
-                  "digest": "sha256:c36472b3458398be28ecbfebbaac44143c040eae73411baded48a22060d3055b",
-                  "size": 27384944
+                  "digest": "sha256:cf67f3f0b7b3a837aac5c0be2974a3574a6b600345d9528def747c7e01fda2b8",
+                  "size": 27389025
                 }
               ]
             }
@@ -23970,8 +23970,8 @@
         {
           "productVersion": "8.0.418",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:8affd9cc704be9f1db9135fe885f7a898b21cf8c31b7fad2b00eebdba16a1beb",
-            "created": "2026-02-12T21:25:27.6484159Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:e4bd76f1ac9f6a7087c2f42f594aff9b7f0e6c392f35fb01a0f761144b395e14",
+            "created": "2026-02-24T13:24:42.3821906Z",
             "sharedTags": [
               "8.0-jammy",
               "8.0.418-jammy"
@@ -23984,53 +23984,53 @@
                 "8.0-jammy-amd64",
                 "8.0.418-jammy-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:296c6bb1f57c75dd1be5495d94aef6db25da13792dcde90960973bd56db2fcac",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:faffa4b46139a337924ebcb09cdc4d9a8834654a82e1f9003023ad34d8237c39",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:83a2cbe06537b69a20650f6e18c6e86ea81a851de37c30e0a80e81e58f30cc6d",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:0db49c0d7051044dae1fdf4ae9e851f30c1337ce139b2ef67e51556032360737",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "amd64",
-              "created": "2026-02-12T20:04:05.5920446Z",
+              "created": "2026-02-24T12:32:28.5408672Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/sdk/8.0/jammy/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:f6423a47c767c295f5ce3298a4ee29d195d001f8bfe69d216dbf470b0b49c925",
-                  "size": 16953464
+                  "digest": "sha256:e21b34a04b2fbe267ea039f46c3957c5bae631b0844512804e0c67c60881e61d",
+                  "size": 16953427
                 },
                 {
-                  "digest": "sha256:3e172e21d2d358016e1c37e6cbabb6557feacf24ececf08993641b44411d7c45",
-                  "size": 2622
+                  "digest": "sha256:f58d43fa73a06dca830bbb2a1b79cd3fdc9ba97b05aa8a4caef4fcb110c94d6a",
+                  "size": 2619
                 },
                 {
-                  "digest": "sha256:126b99be78b8e2c6075fae37fca43d561ee50f2770a61694f86587eace36ab37",
-                  "size": 178330552
+                  "digest": "sha256:c0f8348481d1af0a34bf767c5324930ec49b0eb6e423c400f2b53c38ff862c88",
+                  "size": 178330500
                 },
                 {
-                  "digest": "sha256:bde69261b24a0e130f62e0c925ec90fe6fca8b8518c0b1785a2a6e8a9b8c2137",
-                  "size": 20753120
+                  "digest": "sha256:4d5d17d68f23bb93e3c163b40a72b2ffe188d8969df31479eaaad9138bcf08a1",
+                  "size": 20753756
                 },
                 {
-                  "digest": "sha256:b864bc32d9adf8ed298f25009a12839d57828082698e956369c6ef6939595f54",
-                  "size": 11089632
+                  "digest": "sha256:0856692f74d7b89b1feb8a7a672e8c5813fbd21dc5769434e9e239974b963135",
+                  "size": 11089642
                 },
                 {
-                  "digest": "sha256:8dac7ee0eb69e8f15764236fed4c5bac1682a5365054616fd56d7b7615ed20a2",
+                  "digest": "sha256:921b16b34bd467ac15d72ee876ce37fbc41dec68d16c33c3d99fa07b28b30b7a",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:23361521a09a7fa4e23e066964609f836f113b3645a208ee09215416acd62a99",
-                  "size": 32249400
+                  "digest": "sha256:fe2281e660830238e45dcaad7d5db7986f9889b380a8b566c0c3cbe53e608764",
+                  "size": 32249374
                 },
                 {
-                  "digest": "sha256:b43a7eb8876c1a0650311a31e8d7f091e16917612c13a320469ffc9622d8dd82",
-                  "size": 3527
+                  "digest": "sha256:870e75cb7c7aa2b466a7dcb3a9e5441127bcb9a4dcc2fedb74d9fafd0787fb9d",
+                  "size": 3522
                 },
                 {
-                  "digest": "sha256:61b1c160e42a05d54445f30dbb838c0b42c2f9b3619e0de6aab03c75a3445e3d",
-                  "size": 16703594
+                  "digest": "sha256:2c0af0098bf37fc8bde8a8dc736912acbf04768cb6ac3f95f08843798f8c9aaf",
+                  "size": 16703454
                 },
                 {
-                  "digest": "sha256:b1cba2e842ca52b95817f958faf99734080c78e92e43ce609cde9244867b49ed",
-                  "size": 29537366
+                  "digest": "sha256:96c832531c38e688c852576582a5ab43a21815c743665a03b6b066c850ed1522",
+                  "size": 29538520
                 }
               ]
             },
@@ -24040,53 +24040,53 @@
                 "8.0-jammy-arm32v7",
                 "8.0.418-jammy-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:1b0ad7eca12506f8e7235ffc0ed745b89be6a0f58e1115a2024c36b643718a0c",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:7d4bd30a10df37e2807a03e9f3d860c647113770fec0b9faa089bcc64a330f8d",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:4a3b44f4f33000306b5bf95aab85de288eeb9ad4a6c353bdc5accabe543713b1",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:cb2275fe37d60b250788ced076462d8f301ad462f8c7b22c865b351d50869a94",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "arm32",
-              "created": "2026-02-12T20:00:24.5969778Z",
+              "created": "2026-02-24T12:31:20.1289823Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/sdk/8.0/jammy/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:cc60035ed665b1b82b26a713673c2e1bafba2026795e722727df689492915d91",
-                  "size": 17011667
+                  "digest": "sha256:a7f6fc53c6aa6cec45b1a178d8c8c4e6f4463c17de5c1190dc9f46b9aa7ca0f0",
+                  "size": 17011529
                 },
                 {
-                  "digest": "sha256:30b954b1e9694eb782df494037cf2fe0d16da4bae57099a7cbe567e9c14c269c",
-                  "size": 2664
+                  "digest": "sha256:6a3a58a8baf53a060f99ad3675da7f08f7780d1070849717a5b5453d8ecda0a0",
+                  "size": 2678
                 },
                 {
-                  "digest": "sha256:b5c208bdb5c5d6d4589f6af4e6618874acce88d124c0e0a5fd8fb3268466c836",
-                  "size": 174318774
+                  "digest": "sha256:a73cf2bdbf906ab985f53d0cef34d4698d69eda18bf9f30e42f3a07e71c17a87",
+                  "size": 174318796
                 },
                 {
-                  "digest": "sha256:f7e2f305c092c78029ae21c6367c69ecf58790750ece27cfa84d4af03678edf8",
-                  "size": 24031962
+                  "digest": "sha256:6f1cd7627972ca88a65592441bb546be07f910ab89aabee1b154b13ae2392bfd",
+                  "size": 24033794
                 },
                 {
-                  "digest": "sha256:527ee0af166d43094beead202657fad4d6c23df1a89a75ec94b0ec132d2e70bd",
-                  "size": 11022711
+                  "digest": "sha256:d8867c39a782152f36390fd723704677a57d789fbfc5185b638018e4d5575368",
+                  "size": 11022693
                 },
                 {
-                  "digest": "sha256:e034707ed93856dbf24b0260f7c980bf860b2f24be32ccbe85480884c9f8b8b5",
+                  "digest": "sha256:d8375d2be5f7028e18ec113c748564cc1a5da70f9f029459d2f42cea0fcab631",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:51b07954e2739fda68fec037490026db39025b5008d97e4e8b8b8229edffdcbd",
-                  "size": 30265964
+                  "digest": "sha256:6470c4f4ab3fc51c42e6ad5d996c903c14c01c0d888192dab857241ecb784917",
+                  "size": 30265987
                 },
                 {
-                  "digest": "sha256:e3478107b331052de79e0173467c7677e12639bf7288c92b57f7ab03421608ed",
-                  "size": 3548
+                  "digest": "sha256:9cea3e048501efb17a13db8f55ed0f0be2f41173db191b9e9ab0e3ea8602130c",
+                  "size": 3556
                 },
                 {
-                  "digest": "sha256:9796e07a3781cb959823fc7e9599e6eb63a3217bf84bf78b20920c4d35b54903",
-                  "size": 16174468
+                  "digest": "sha256:378c8d2e703f1795a9d5149bb16270b6715cb316ec3644729795e655ea55413e",
+                  "size": 16174502
                 },
                 {
-                  "digest": "sha256:8994f3e4ab606dcbf77ca1a5364851191cbe725563408ee7cd2a667cb364bed0",
-                  "size": 26644404
+                  "digest": "sha256:d411674a4afc7be17053720e1c67deb36aff030c844d1520a78ec3bea5895fbb",
+                  "size": 26647217
                 }
               ]
             },
@@ -24096,53 +24096,53 @@
                 "8.0-jammy-arm64v8",
                 "8.0.418-jammy-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:1d4439ae06c37dec312f414b908892450cc0570a6002eb3c01006aec3cb1952d",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f1f199e5e0f7455f95ee8025fcee3fa4859713f9ca60d30daabfc721e43f8f20",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:085ce69333ff790df5fe7c1ca50747f121f0eade50586ecb4277302769106056",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:e834844163880cdd887983245da0dbff76685d3e06fd264b7f640d83f3fc357b",
               "osType": "Linux",
               "osVersion": "jammy",
               "architecture": "arm64",
-              "created": "2026-02-12T20:02:34.1544317Z",
+              "created": "2026-02-24T12:28:48.8124902Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/sdk/8.0/jammy/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:ce08c8ab545672488296c031564256fe379aa5e1807c8d7c0b09c173deff5580",
-                  "size": 17019299
+                  "digest": "sha256:03952e98e93b502049ff851ca4052063f12c64c830ba4697fbc551612d0dcd9e",
+                  "size": 17019231
                 },
                 {
-                  "digest": "sha256:e2eb6100df0c9f05bb69aa9a0f21bae8025a85205d3df6cc9bc33bca7b98d163",
-                  "size": 2681
+                  "digest": "sha256:49fd19ba16628a8fdfa1a9396e6e6b864e5d6f89bc8bdcabf616f36068f1e37a",
+                  "size": 2682
                 },
                 {
-                  "digest": "sha256:b87999213e60c74f058f5149d8eb022748fe192a93f55e3d0b5fbe962f77bd6e",
-                  "size": 174998742
+                  "digest": "sha256:9d269c0fb7d3c136e1ca8aa071f047af0afb292e8dbca986932d7e0c090cd25e",
+                  "size": 174998606
                 },
                 {
-                  "digest": "sha256:0c918e46caaa926b8901a0d2272a073eefb89c2113cc7e1854d68e21e8771b7f",
-                  "size": 20953121
+                  "digest": "sha256:179c0d330c7c131f421acee42a9fa3313a344cbc5f06bfed8e8e4b46dc37359d",
+                  "size": 20954387
                 },
                 {
-                  "digest": "sha256:80292965277ac2ac104721f5403590b49876a190c05176d4105cfbab0fc70222",
-                  "size": 10756421
+                  "digest": "sha256:2bf3d4fc19ed4658e561797dde5a15256e16b6a5c96fb7ca7cdf1b68e1141aac",
+                  "size": 10756440
                 },
                 {
-                  "digest": "sha256:6337fee135456d0b11596bbe6ae51cc903dff87e757faaec7440cf30cfcd5b77",
-                  "size": 154
+                  "digest": "sha256:03a80a55fe056f24a8476837541458d3f7754b55d2914a963a04026b9dceee2b",
+                  "size": 155
                 },
                 {
-                  "digest": "sha256:3710e3425dc35253b230826ca20e68a6d50efc608cca3e4bdaa7d15a401486b3",
-                  "size": 30828582
+                  "digest": "sha256:9e31c1fa38a42f025009aaee5f1445d8cf8172abd454c8feb74830efd824dbd2",
+                  "size": 30828583
                 },
                 {
-                  "digest": "sha256:bd7e8530b6b3c4ecc1b52ed77df07685477d4051d5e3e356a895f44e5787ddf1",
+                  "digest": "sha256:6422db178c24585d14aca19eed595e6a630b9cbfba2fc43b025cd455f592e3a0",
                   "size": 3548
                 },
                 {
-                  "digest": "sha256:5d921f8fb279a3c5b4cdaa699c4a8fb012f1ae863f7319b8caabee2a051a4b34",
-                  "size": 16630805
+                  "digest": "sha256:5042ae3cbed6da12723032d49d3d4fe56ed7dd3a34867115ca75338ff1a45122",
+                  "size": 16630619
                 },
                 {
-                  "digest": "sha256:c36472b3458398be28ecbfebbaac44143c040eae73411baded48a22060d3055b",
-                  "size": 27384944
+                  "digest": "sha256:cf67f3f0b7b3a837aac5c0be2974a3574a6b600345d9528def747c7e01fda2b8",
+                  "size": 27389025
                 }
               ]
             }
