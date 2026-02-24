@@ -5557,8 +5557,8 @@
         {
           "productVersion": "8.0.24",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f64950326e5a114ca390ddaa1f48dde9bc61155082d0384438e564a5ab759d4d",
-            "created": "2026-02-11T03:59:25.5876548Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:95ae89c09a4c9b46571f107307a6c4edf4ea7d184ec76091625c8cc3e18585ba",
+            "created": "2026-02-24T21:31:46.2262564Z",
             "sharedTags": [
               "8.0",
               "8.0-bookworm-slim",
@@ -5573,37 +5573,37 @@
                 "8.0-bookworm-slim-amd64",
                 "8.0.24-bookworm-slim-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f350a9fa8bbc684a929a9c6f4e9099e335291ce1702fb55503a2818d7599ac6e",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:5c8d154520be51824028f3c9cd7ebcafc9fa77d3570ab044f58e8b67a835d8d0",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:4b167e43e0d2f341602a0b1745d6468c38272ac55d76ac71cf24413a2f949bcc",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:459417f755f028ec97e738adcbc2b80704caa59674ef1dd09b45b51148049bf9",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "amd64",
-              "created": "2026-02-11T02:40:12.066095Z",
+              "created": "2026-02-24T20:31:48.9936626Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/aspnet/8.0/bookworm-slim/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:4ea41168f52ae8081984699de8e7b268068b92d106d617c8428d1e37e07d1a6b",
-                  "size": 11089639
+                  "digest": "sha256:448172f6be368500c6fd27206a95c19dfce4911edd9b092a2f4161f8d3ab0aef",
+                  "size": 11089637
                 },
                 {
-                  "digest": "sha256:7a645acdf32f5a76dcff1b8b75eccb07772932ee566b916c52f2c9184bb5b944",
+                  "digest": "sha256:28dab6093f0ff87936c75a6a2a4afe26d86a29f79a4d4fa919746497ae2526a1",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:bc825a606da1cfd504959bf9d712f6cfd08367449fd828d0b776ff41a0c8a4c8",
-                  "size": 32249373
+                  "digest": "sha256:25adb5b1f479b2e1bb6574f2d4acda242a1f18e88438da57c3b72814d996f82f",
+                  "size": 32249391
                 },
                 {
-                  "digest": "sha256:5249a052371e31fa53d9499b236fafd006fb9163d9d98833e1a067c5fa8f6dd0",
-                  "size": 3284
+                  "digest": "sha256:8280f4901c91878a2dd2c28e5a8686fdac0dcf6f5f3e61fad49248e1ee5a3748",
+                  "size": 3287
                 },
                 {
-                  "digest": "sha256:c230a759816b458c829570631cfe858bd6279b958b857b5127d74ef33ca1b3bb",
-                  "size": 18742243
+                  "digest": "sha256:317ae45ded2781e7f7545d8acadc14b7f81353c70165e171365f86f9f7539d88",
+                  "size": 18742240
                 },
                 {
-                  "digest": "sha256:4831516dd0cb86845f5f902cb9b9d25b5c853152c337eb57e4737a9b7e2a2eb9",
-                  "size": 28228487
+                  "digest": "sha256:84a2afebaf4de2e8eb885634a69abd0087b79c947c53fa4f0481235d6dfadc6c",
+                  "size": 28236279
                 }
               ]
             },
@@ -5613,37 +5613,37 @@
                 "8.0-bookworm-slim-arm32v7",
                 "8.0.24-bookworm-slim-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:fd26b7f96272907831d4ff9c480b7dc3515f5f10320627f1bc86313f2e1c9eef",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:30c85f949cb77c6f9ba11b75739ad7bccbf6cf67e5d3a3de867d69a68e99ae0c",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f080901307fe477d7d25b5eb158cc594f1caf1c98fbe86da80f614ac018bf441",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:4a2b7c74e193ce078b0fd54efe19fc694a90cb68b271f01df7bcfb9fe4a46d7d",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm32",
-              "created": "2026-02-11T02:38:35.6098368Z",
+              "created": "2026-02-24T20:26:55.29871Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/aspnet/8.0/bookworm-slim/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:2ee4c871e92468286e4151ca2ceb5d8f3705ffd4144fac020873efe47115d1a4",
-                  "size": 11022671
+                  "digest": "sha256:efb6769eea842f1feda79d37e855f643950d557a6ee67c39eb4408d1b86349b7",
+                  "size": 11022680
                 },
                 {
-                  "digest": "sha256:e2acb5bc99a6478998678f3efe741b1a5efa4b8bdb10dd120f33818ccf42bdd1",
-                  "size": 166
+                  "digest": "sha256:818b710175d8b27cd72d40f64caa034f6a80b3c67d227a9748f251bdae911063",
+                  "size": 165
                 },
                 {
-                  "digest": "sha256:971ef9b973246235e8a3d4a2bca94766fc9b01fd369e19bd2ae43c095615121f",
-                  "size": 30265967
+                  "digest": "sha256:fbde63e0ec1bbd2519da54a5bd193be4c0faa0eea998d4737752b5bd5203c8cb",
+                  "size": 30265985
                 },
                 {
-                  "digest": "sha256:1dc96bc1d44e3fa4b89aa3b8a9d5dc0f6c646c268d26efdaf6456a517f9f11ec",
-                  "size": 3335
+                  "digest": "sha256:acda4670d50e2263e04dd298bce5f9a0e74c0917c1033c423de94b009a78c0a0",
+                  "size": 3331
                 },
                 {
-                  "digest": "sha256:4f50848ce1b9ce8bbbdaf4cac64ae3bea51ed5f96fd3aff7f4bf7d4fb9eb483e",
-                  "size": 17663272
+                  "digest": "sha256:2b3f9ee77ff2037d4d0c0995d646422c74e380f05c307b3dd8c2d6410aa2dc92",
+                  "size": 17663096
                 },
                 {
-                  "digest": "sha256:6763f462e69d93f50a8712f0d5b2a26a36efcb65e2fab2dd4e1620eb3df42efe",
-                  "size": 23934092
+                  "digest": "sha256:e991e6a97912f9d551e1c8d4ec0c8f2bf9f2df075f1c7862e9a2c3c9d650bc7b",
+                  "size": 23941398
                 }
               ]
             },
@@ -5653,37 +5653,37 @@
                 "8.0-bookworm-slim-arm64v8",
                 "8.0.24-bookworm-slim-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:66e48e10a7d16831a6ac929b632bd1bfda6af519f955a57f282ec95f5e5be26a",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:ce7ec28eb3aebad04f3fdd72fe4b35a64fac7230f3684681deea1c5e2cd9b5b3",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:c312e56d409fb4af7c3806722f4c8a2da51426ced4603c87dc6ae9a5e897251e",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:76e5fe5bdebc70e9ad1fdf46e81adc397ab125000476c00c3440880fceaa9bb0",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm64",
-              "created": "2026-02-11T02:38:45.3511928Z",
+              "created": "2026-02-24T20:29:33.8230448Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/aspnet/8.0/bookworm-slim/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:8e9ca0a73b0627db7440b234403490717d5e0ee00a530713326f590fdd13644e",
-                  "size": 10756441
+                  "digest": "sha256:51cfca91e253cb3b220e461f638bc100dbde2e6d2fef1b8811b5427d1edfc9c1",
+                  "size": 10756428
                 },
                 {
-                  "digest": "sha256:94fb68e25a95682a6475554aa25600e0f5d1a7a9056db2bf901e24442e537e25",
-                  "size": 166
+                  "digest": "sha256:33104dc47645685621577b05d9fff08ac7bd67b23a23513976c6c7d606a3bf4a",
+                  "size": 164
                 },
                 {
-                  "digest": "sha256:938760c139c8811d551489c87e299640c381b5bb22befec78c1195e501fa96ae",
+                  "digest": "sha256:947bf10e1f62237fd3640cea10862ad5ba589a8cb4714f61957fbeeb8e2709ea",
                   "size": 30828597
                 },
                 {
-                  "digest": "sha256:6a17f4cf5f71ea3ee2406816e3b8744b0093e48f00e1566ebeec8b9130bb7f74",
-                  "size": 3333
+                  "digest": "sha256:03c878d572b157b129f8887cafb5946d9e7d151d0fe8dae31e13d8c852ed182e",
+                  "size": 3331
                 },
                 {
-                  "digest": "sha256:874bba8fee1286cde1d61946d1d17da0b5c3d3d2195b34c988c8e9557df1b53d",
-                  "size": 18534212
+                  "digest": "sha256:724c1384ce7006a4afc332f4e28bafe52d454f67a90788d2de0c049e89879040",
+                  "size": 18534199
                 },
                 {
-                  "digest": "sha256:d3d5d8ab26d25b9040a3c2160d7ddfe3911ae81035d5b1b0904f3ebda32476b6",
-                  "size": 28107823
+                  "digest": "sha256:eb04ef52de3a23999fcda632f100324a4d1dbebd588b4df190c4a172bb88c603",
+                  "size": 28116081
                 }
               ]
             }
@@ -8998,8 +8998,8 @@
         {
           "productVersion": "9.0.13",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:eaa9c4a030d9248ddad73a73042f4b5885d364f5c8d11164fe4dda2561fff025",
-            "created": "2026-02-11T03:59:25.5876548Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:36a7e59a9a4a47b444a605c30a300ed1a8c48defc47420857e9570af0c562701",
+            "created": "2026-02-24T21:31:46.2262564Z",
             "sharedTags": [
               "9.0",
               "9.0-bookworm-slim",
@@ -9014,37 +9014,37 @@
                 "9.0-bookworm-slim-amd64",
                 "9.0.13-bookworm-slim-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f7e41fb5fe1f99a8c823264e5af43acb0c82395eec7fec4b95b2bb21f5453228",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:b15689170b4bc9f0662f87f2118ffd7d3db8342db2adb9d52af7d99a70083afa",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:9220a79eb5d80bab0c0fe40a2b29338239dba2f2fd953e17e2b8eac2d1e52559",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:236b93f728504525fd8be917b20ee32dace895de7ef8be84a3a11f03ce549206",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "amd64",
-              "created": "2026-02-11T02:40:17.5041138Z",
+              "created": "2026-02-24T20:31:55.2643665Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/aspnet/9.0/bookworm-slim/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:d8e1a91bd87a0bdf5f469ef6324d87b89fe8b93772ffcd7e91e29ee88621dcf8",
-                  "size": 11310869
+                  "digest": "sha256:16ee23e193f9249b238c2dc832958b9e1fc2b21b120474de490f2a4c9495f8ed",
+                  "size": 11310871
                 },
                 {
-                  "digest": "sha256:58710ba28aab74e3fbccc1dbb1a1dd44e4a7018b1aececb821c9f2a07ab180d5",
-                  "size": 156
+                  "digest": "sha256:ab4766cf2f6639bbd6accc21c02e7889ae653297f56c90a4acfc3eecc90ff0fb",
+                  "size": 154
                 },
                 {
-                  "digest": "sha256:21dfbac4cd940933a7a68956e71558299560d3bfdc792a80f386211b8d94a134",
-                  "size": 34549057
+                  "digest": "sha256:8fe43f10c551c6669ff7a7ee441205ef2fdde1ac0735876737413c36446208b0",
+                  "size": 34549075
                 },
                 {
-                  "digest": "sha256:ad0433e17af0c8124f923f2d25b0b7016df624034b6f4104219038b3ce1ad6cc",
-                  "size": 3281
+                  "digest": "sha256:b93c4a8b435d23c85b5b94e03cc011572b8e8a403833e62c4342e49247e8246d",
+                  "size": 3285
                 },
                 {
-                  "digest": "sha256:24501b5958e97913b4b4d8a37ce2eff519944eab7d2b85c51acc1cc640acd4fb",
-                  "size": 18742174
+                  "digest": "sha256:6bed9076af210ed8f776497996d5f777b6f130f98da3f2bf5ad95bf2c1a9a3e7",
+                  "size": 18742186
                 },
                 {
-                  "digest": "sha256:4831516dd0cb86845f5f902cb9b9d25b5c853152c337eb57e4737a9b7e2a2eb9",
-                  "size": 28228487
+                  "digest": "sha256:84a2afebaf4de2e8eb885634a69abd0087b79c947c53fa4f0481235d6dfadc6c",
+                  "size": 28236279
                 }
               ]
             },
@@ -9054,37 +9054,37 @@
                 "9.0-bookworm-slim-arm32v7",
                 "9.0.13-bookworm-slim-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:4970761d9453fa7df03f3492e2ced7a59aea4c956d34841adf95192f204779e1",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:37aec7e20df21e085930b2d0ab64ddb00c64a0d6e741fb1628b076c894f4b759",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:a6559f40c4f8ef3725448f4b15ae41cc2166774bc80465dc1f2130513acc1f3a",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:1845fae25a8fbc2c226230611f5dc24fdf5ebecc6a818c64de2e3a68e3b50de0",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm32",
-              "created": "2026-02-11T02:38:25.933687Z",
+              "created": "2026-02-24T20:27:32.0856545Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/aspnet/9.0/bookworm-slim/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:b7bb80b18c7f46c3bead4bb083e36337103411b764e4d95280bba7259a4db7fc",
-                  "size": 11268261
+                  "digest": "sha256:cfcb265ae07b6e8b444c0e2c54ca85315fc0d15f2f627fcec8a3213dda82e15c",
+                  "size": 11268262
                 },
                 {
-                  "digest": "sha256:6010237bd89e6e9e85cd86af972fc5d91da7f7cf5f773abec615c66beab288d6",
-                  "size": 167
+                  "digest": "sha256:4cd808317605e308f7f8316d27cf8704ecfdbc2011b3bcaeccdaa7cad85937ab",
+                  "size": 165
                 },
                 {
-                  "digest": "sha256:1066d723d1c74fb020c34fda34624a3f01b1cfdcdfb2c674e972767cf2adfd57",
-                  "size": 32058086
+                  "digest": "sha256:6c7de55a3fc0d713e976c89e79fe9791105e9c484efd46e930cc9f1d581136de",
+                  "size": 32058087
                 },
                 {
-                  "digest": "sha256:5e40ce0b7679fc5cecbac82e4f726604bbecacec6fdd25fd8e685e2ed8aeedc7",
-                  "size": 3333
+                  "digest": "sha256:1f878d2b42ccd96a03043f081543d7ffc050d39bf2214fc3c67a8654ea4986dc",
+                  "size": 3334
                 },
                 {
-                  "digest": "sha256:cb07d1f079924f0ce67684c7c2a3daa51552ebd7cd15bc5d42885dd3d27cecf2",
-                  "size": 17663265
+                  "digest": "sha256:2d1257f5996fc202a7c368941f7ea63770cd533f63a809469e845710a343c2f5",
+                  "size": 17663229
                 },
                 {
-                  "digest": "sha256:6763f462e69d93f50a8712f0d5b2a26a36efcb65e2fab2dd4e1620eb3df42efe",
-                  "size": 23934092
+                  "digest": "sha256:e991e6a97912f9d551e1c8d4ec0c8f2bf9f2df075f1c7862e9a2c3c9d650bc7b",
+                  "size": 23941398
                 }
               ]
             },
@@ -9094,37 +9094,37 @@
                 "9.0-bookworm-slim-arm64v8",
                 "9.0.13-bookworm-slim-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:b5676c1355472c5fc4d21b2e192d1472f24fa8fb493ae74c7dc1d90844d29abd",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:65935d2e042f42f800dbca5f2a79a5e02faabb48f343a286c98db61e0c38563e",
+              "digest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f077ce9354b30dd867409850d09b3b9804ea2f71bec9bcd6714707f2f22d9069",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:bf6d3bdd182d2d1930cdb76461a76cfa391ece941370275be81d97ca60683c08",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm64",
-              "created": "2026-02-11T02:38:53.5455216Z",
+              "created": "2026-02-24T20:30:08.567321Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/aspnet/9.0/bookworm-slim/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:b275dc186107d764452e99c525a36ffed6b9b3b4273e5fb2ee866cfe8099d28e",
-                  "size": 10922612
+                  "digest": "sha256:9426610f125c3b02b060132eafdb9eaad8cf89dae01870c1b9952301ecfdbd8d",
+                  "size": 10922621
                 },
                 {
-                  "digest": "sha256:9a301d4f8ade9a039c47aafa14d8a76cfb397a82b3ddc7dcc313e9d08cdd053b",
-                  "size": 166
+                  "digest": "sha256:be46d7fd37f16bef1971d903a3577acea61c0ca0a9d6804b6764259e42f7b96c",
+                  "size": 162
                 },
                 {
-                  "digest": "sha256:8f421d3af1c8b560d974f1ce3f4b86a09cfedd965a40e5b2c9ccc61a0c00c494",
-                  "size": 32850321
+                  "digest": "sha256:e44bdb983e5d7aaa39bbd9529a1da7d3aab797b71b593462fcca1db760de3ef4",
+                  "size": 32850325
                 },
                 {
-                  "digest": "sha256:b63a0fa824213053dad29b29dfc434cc80d33770d62e50645d1d6b3d5dfe80b1",
-                  "size": 3335
+                  "digest": "sha256:3c63dca6e87bf53a1f557b80f38363793e91f74b6259c6a2a80521899879c526",
+                  "size": 3329
                 },
                 {
-                  "digest": "sha256:1fe424a31ef5c4695ed72144955c27fbe4b3ba168acf8de895bb8441c6722946",
-                  "size": 18534204
+                  "digest": "sha256:194cb49e875f2702078db9e758b2775efef1bb075a69f722c3dd055b1756ef36",
+                  "size": 18534178
                 },
                 {
-                  "digest": "sha256:d3d5d8ab26d25b9040a3c2160d7ddfe3911ae81035d5b1b0904f3ebda32476b6",
-                  "size": 28107823
+                  "digest": "sha256:eb04ef52de3a23999fcda632f100324a4d1dbebd588b4df190c4a172bb88c603",
+                  "size": 28116081
                 }
               ]
             }
@@ -13911,8 +13911,8 @@
         {
           "productVersion": "8.0.24",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:647b07daad6c6b906ae5d19e0c1c23807d65bd8d657a7457211d84a0568c020f",
-            "created": "2026-02-11T03:59:25.5876548Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:318ec70b338d4781be0b4498577bf712f519056496910a463e3580fd8bd608ea",
+            "created": "2026-02-24T21:31:46.2262564Z",
             "sharedTags": [
               "8.0",
               "8.0-bookworm-slim",
@@ -13927,33 +13927,33 @@
                 "8.0-bookworm-slim-amd64",
                 "8.0.24-bookworm-slim-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:5c8d154520be51824028f3c9cd7ebcafc9fa77d3570ab044f58e8b67a835d8d0",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:3ee979d15259eb1536636523546ded32a1cb46c20b8da947f18df0351407a788",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:459417f755f028ec97e738adcbc2b80704caa59674ef1dd09b45b51148049bf9",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:a97f5dbf04e2a5d26710a67515f95500de90ae81ac1cba9bcd20dc27b9e33344",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "amd64",
-              "created": "2026-02-11T02:40:05.1011649Z",
+              "created": "2026-02-24T20:31:42.1427758Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/runtime/8.0/bookworm-slim/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:7a645acdf32f5a76dcff1b8b75eccb07772932ee566b916c52f2c9184bb5b944",
+                  "digest": "sha256:28dab6093f0ff87936c75a6a2a4afe26d86a29f79a4d4fa919746497ae2526a1",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:bc825a606da1cfd504959bf9d712f6cfd08367449fd828d0b776ff41a0c8a4c8",
-                  "size": 32249373
+                  "digest": "sha256:25adb5b1f479b2e1bb6574f2d4acda242a1f18e88438da57c3b72814d996f82f",
+                  "size": 32249391
                 },
                 {
-                  "digest": "sha256:5249a052371e31fa53d9499b236fafd006fb9163d9d98833e1a067c5fa8f6dd0",
-                  "size": 3284
+                  "digest": "sha256:8280f4901c91878a2dd2c28e5a8686fdac0dcf6f5f3e61fad49248e1ee5a3748",
+                  "size": 3287
                 },
                 {
-                  "digest": "sha256:c230a759816b458c829570631cfe858bd6279b958b857b5127d74ef33ca1b3bb",
-                  "size": 18742243
+                  "digest": "sha256:317ae45ded2781e7f7545d8acadc14b7f81353c70165e171365f86f9f7539d88",
+                  "size": 18742240
                 },
                 {
-                  "digest": "sha256:4831516dd0cb86845f5f902cb9b9d25b5c853152c337eb57e4737a9b7e2a2eb9",
-                  "size": 28228487
+                  "digest": "sha256:84a2afebaf4de2e8eb885634a69abd0087b79c947c53fa4f0481235d6dfadc6c",
+                  "size": 28236279
                 }
               ]
             },
@@ -13963,33 +13963,33 @@
                 "8.0-bookworm-slim-arm32v7",
                 "8.0.24-bookworm-slim-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:30c85f949cb77c6f9ba11b75739ad7bccbf6cf67e5d3a3de867d69a68e99ae0c",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:d890543bc72b92175c696041f94de2519d8b4c2420da805a720954a312c5642a",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:4a2b7c74e193ce078b0fd54efe19fc694a90cb68b271f01df7bcfb9fe4a46d7d",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:70f21123ffd634c6d97566719c03ad6db7f071659d38b12f0e90c5da6af7214c",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm32",
-              "created": "2026-02-11T02:38:27.555782Z",
+              "created": "2026-02-24T20:26:47.2168694Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/runtime/8.0/bookworm-slim/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:e2acb5bc99a6478998678f3efe741b1a5efa4b8bdb10dd120f33818ccf42bdd1",
-                  "size": 166
+                  "digest": "sha256:818b710175d8b27cd72d40f64caa034f6a80b3c67d227a9748f251bdae911063",
+                  "size": 165
                 },
                 {
-                  "digest": "sha256:971ef9b973246235e8a3d4a2bca94766fc9b01fd369e19bd2ae43c095615121f",
-                  "size": 30265967
+                  "digest": "sha256:fbde63e0ec1bbd2519da54a5bd193be4c0faa0eea998d4737752b5bd5203c8cb",
+                  "size": 30265985
                 },
                 {
-                  "digest": "sha256:1dc96bc1d44e3fa4b89aa3b8a9d5dc0f6c646c268d26efdaf6456a517f9f11ec",
-                  "size": 3335
+                  "digest": "sha256:acda4670d50e2263e04dd298bce5f9a0e74c0917c1033c423de94b009a78c0a0",
+                  "size": 3331
                 },
                 {
-                  "digest": "sha256:4f50848ce1b9ce8bbbdaf4cac64ae3bea51ed5f96fd3aff7f4bf7d4fb9eb483e",
-                  "size": 17663272
+                  "digest": "sha256:2b3f9ee77ff2037d4d0c0995d646422c74e380f05c307b3dd8c2d6410aa2dc92",
+                  "size": 17663096
                 },
                 {
-                  "digest": "sha256:6763f462e69d93f50a8712f0d5b2a26a36efcb65e2fab2dd4e1620eb3df42efe",
-                  "size": 23934092
+                  "digest": "sha256:e991e6a97912f9d551e1c8d4ec0c8f2bf9f2df075f1c7862e9a2c3c9d650bc7b",
+                  "size": 23941398
                 }
               ]
             },
@@ -13999,33 +13999,33 @@
                 "8.0-bookworm-slim-arm64v8",
                 "8.0.24-bookworm-slim-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:ce7ec28eb3aebad04f3fdd72fe4b35a64fac7230f3684681deea1c5e2cd9b5b3",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:c573353d5eb424cf192285fffc98fec9f0afb19b1b15dc8a6ceeb4ebfffb05e3",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:76e5fe5bdebc70e9ad1fdf46e81adc397ab125000476c00c3440880fceaa9bb0",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:08dd4ad363a1e4e5f4c50d4359092cbd237af0c0afdca8ee4444afa72814d165",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm64",
-              "created": "2026-02-11T02:38:38.0422539Z",
+              "created": "2026-02-24T20:29:26.0983082Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/runtime/8.0/bookworm-slim/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:94fb68e25a95682a6475554aa25600e0f5d1a7a9056db2bf901e24442e537e25",
-                  "size": 166
+                  "digest": "sha256:33104dc47645685621577b05d9fff08ac7bd67b23a23513976c6c7d606a3bf4a",
+                  "size": 164
                 },
                 {
-                  "digest": "sha256:938760c139c8811d551489c87e299640c381b5bb22befec78c1195e501fa96ae",
+                  "digest": "sha256:947bf10e1f62237fd3640cea10862ad5ba589a8cb4714f61957fbeeb8e2709ea",
                   "size": 30828597
                 },
                 {
-                  "digest": "sha256:6a17f4cf5f71ea3ee2406816e3b8744b0093e48f00e1566ebeec8b9130bb7f74",
-                  "size": 3333
+                  "digest": "sha256:03c878d572b157b129f8887cafb5946d9e7d151d0fe8dae31e13d8c852ed182e",
+                  "size": 3331
                 },
                 {
-                  "digest": "sha256:874bba8fee1286cde1d61946d1d17da0b5c3d3d2195b34c988c8e9557df1b53d",
-                  "size": 18534212
+                  "digest": "sha256:724c1384ce7006a4afc332f4e28bafe52d454f67a90788d2de0c049e89879040",
+                  "size": 18534199
                 },
                 {
-                  "digest": "sha256:d3d5d8ab26d25b9040a3c2160d7ddfe3911ae81035d5b1b0904f3ebda32476b6",
-                  "size": 28107823
+                  "digest": "sha256:eb04ef52de3a23999fcda632f100324a4d1dbebd588b4df190c4a172bb88c603",
+                  "size": 28116081
                 }
               ]
             }
@@ -15910,8 +15910,8 @@
         {
           "productVersion": "9.0.13",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:72ad6c3f8d34fc1570bcc58cec49f413e423a436f93dbd3f24cf9517bba36fd8",
-            "created": "2026-02-11T03:59:25.5876548Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:aa482c4c8aa87733a7bb56975384310e80db8dcdb2e8f9987826fc97ad92a1ab",
+            "created": "2026-02-24T21:31:46.2262564Z",
             "sharedTags": [
               "9.0",
               "9.0-bookworm-slim",
@@ -15926,33 +15926,33 @@
                 "9.0-bookworm-slim-amd64",
                 "9.0.13-bookworm-slim-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:b15689170b4bc9f0662f87f2118ffd7d3db8342db2adb9d52af7d99a70083afa",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:38bcce1bb716041f6f4617a96003bdae0e5f743e647f4d33d259b417daa80117",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:236b93f728504525fd8be917b20ee32dace895de7ef8be84a3a11f03ce549206",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:6bbf9fb1269e0b38a6cf8c246cca3c7ad721cb59fdcaa30768ecafffe9ab1b69",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "amd64",
-              "created": "2026-02-11T02:40:09.8722951Z",
+              "created": "2026-02-24T20:31:47.42449Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/runtime/9.0/bookworm-slim/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:58710ba28aab74e3fbccc1dbb1a1dd44e4a7018b1aececb821c9f2a07ab180d5",
-                  "size": 156
+                  "digest": "sha256:ab4766cf2f6639bbd6accc21c02e7889ae653297f56c90a4acfc3eecc90ff0fb",
+                  "size": 154
                 },
                 {
-                  "digest": "sha256:21dfbac4cd940933a7a68956e71558299560d3bfdc792a80f386211b8d94a134",
-                  "size": 34549057
+                  "digest": "sha256:8fe43f10c551c6669ff7a7ee441205ef2fdde1ac0735876737413c36446208b0",
+                  "size": 34549075
                 },
                 {
-                  "digest": "sha256:ad0433e17af0c8124f923f2d25b0b7016df624034b6f4104219038b3ce1ad6cc",
-                  "size": 3281
+                  "digest": "sha256:b93c4a8b435d23c85b5b94e03cc011572b8e8a403833e62c4342e49247e8246d",
+                  "size": 3285
                 },
                 {
-                  "digest": "sha256:24501b5958e97913b4b4d8a37ce2eff519944eab7d2b85c51acc1cc640acd4fb",
-                  "size": 18742174
+                  "digest": "sha256:6bed9076af210ed8f776497996d5f777b6f130f98da3f2bf5ad95bf2c1a9a3e7",
+                  "size": 18742186
                 },
                 {
-                  "digest": "sha256:4831516dd0cb86845f5f902cb9b9d25b5c853152c337eb57e4737a9b7e2a2eb9",
-                  "size": 28228487
+                  "digest": "sha256:84a2afebaf4de2e8eb885634a69abd0087b79c947c53fa4f0481235d6dfadc6c",
+                  "size": 28236279
                 }
               ]
             },
@@ -15962,33 +15962,33 @@
                 "9.0-bookworm-slim-arm32v7",
                 "9.0.13-bookworm-slim-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:37aec7e20df21e085930b2d0ab64ddb00c64a0d6e741fb1628b076c894f4b759",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:4d83eb810b7157b8625bd46c84001712dfb8c4331618f5e79846b076c7d4b52b",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:1845fae25a8fbc2c226230611f5dc24fdf5ebecc6a818c64de2e3a68e3b50de0",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:a2e82a4e3ee534f80f1a341fcd137a29792e0bb03891c20d0049affb4297801d",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm32",
-              "created": "2026-02-11T02:38:19.3296097Z",
+              "created": "2026-02-24T20:27:24.2430454Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/runtime/9.0/bookworm-slim/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:6010237bd89e6e9e85cd86af972fc5d91da7f7cf5f773abec615c66beab288d6",
-                  "size": 167
+                  "digest": "sha256:4cd808317605e308f7f8316d27cf8704ecfdbc2011b3bcaeccdaa7cad85937ab",
+                  "size": 165
                 },
                 {
-                  "digest": "sha256:1066d723d1c74fb020c34fda34624a3f01b1cfdcdfb2c674e972767cf2adfd57",
-                  "size": 32058086
+                  "digest": "sha256:6c7de55a3fc0d713e976c89e79fe9791105e9c484efd46e930cc9f1d581136de",
+                  "size": 32058087
                 },
                 {
-                  "digest": "sha256:5e40ce0b7679fc5cecbac82e4f726604bbecacec6fdd25fd8e685e2ed8aeedc7",
-                  "size": 3333
+                  "digest": "sha256:1f878d2b42ccd96a03043f081543d7ffc050d39bf2214fc3c67a8654ea4986dc",
+                  "size": 3334
                 },
                 {
-                  "digest": "sha256:cb07d1f079924f0ce67684c7c2a3daa51552ebd7cd15bc5d42885dd3d27cecf2",
-                  "size": 17663265
+                  "digest": "sha256:2d1257f5996fc202a7c368941f7ea63770cd533f63a809469e845710a343c2f5",
+                  "size": 17663229
                 },
                 {
-                  "digest": "sha256:6763f462e69d93f50a8712f0d5b2a26a36efcb65e2fab2dd4e1620eb3df42efe",
-                  "size": 23934092
+                  "digest": "sha256:e991e6a97912f9d551e1c8d4ec0c8f2bf9f2df075f1c7862e9a2c3c9d650bc7b",
+                  "size": 23941398
                 }
               ]
             },
@@ -15998,33 +15998,33 @@
                 "9.0-bookworm-slim-arm64v8",
                 "9.0.13-bookworm-slim-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:65935d2e042f42f800dbca5f2a79a5e02faabb48f343a286c98db61e0c38563e",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:6ab39e1888072c2d74db0e0fef606799b6502d71308c3f3366c7c86e28497dc6",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime@sha256:bf6d3bdd182d2d1930cdb76461a76cfa391ece941370275be81d97ca60683c08",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:0314fd28955005166e086b58d8ee47ed5b81bd829299e809dbc5c7a77607ee67",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm64",
-              "created": "2026-02-11T02:38:47.1648832Z",
+              "created": "2026-02-24T20:30:01.6883957Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/runtime/9.0/bookworm-slim/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:9a301d4f8ade9a039c47aafa14d8a76cfb397a82b3ddc7dcc313e9d08cdd053b",
-                  "size": 166
+                  "digest": "sha256:be46d7fd37f16bef1971d903a3577acea61c0ca0a9d6804b6764259e42f7b96c",
+                  "size": 162
                 },
                 {
-                  "digest": "sha256:8f421d3af1c8b560d974f1ce3f4b86a09cfedd965a40e5b2c9ccc61a0c00c494",
-                  "size": 32850321
+                  "digest": "sha256:e44bdb983e5d7aaa39bbd9529a1da7d3aab797b71b593462fcca1db760de3ef4",
+                  "size": 32850325
                 },
                 {
-                  "digest": "sha256:b63a0fa824213053dad29b29dfc434cc80d33770d62e50645d1d6b3d5dfe80b1",
-                  "size": 3335
+                  "digest": "sha256:3c63dca6e87bf53a1f557b80f38363793e91f74b6259c6a2a80521899879c526",
+                  "size": 3329
                 },
                 {
-                  "digest": "sha256:1fe424a31ef5c4695ed72144955c27fbe4b3ba168acf8de895bb8441c6722946",
-                  "size": 18534204
+                  "digest": "sha256:194cb49e875f2702078db9e758b2775efef1bb075a69f722c3dd055b1756ef36",
+                  "size": 18534178
                 },
                 {
-                  "digest": "sha256:d3d5d8ab26d25b9040a3c2160d7ddfe3911ae81035d5b1b0904f3ebda32476b6",
-                  "size": 28107823
+                  "digest": "sha256:eb04ef52de3a23999fcda632f100324a4d1dbebd588b4df190c4a172bb88c603",
+                  "size": 28116081
                 }
               ]
             }
@@ -18801,8 +18801,8 @@
         {
           "productVersion": "8.0.24",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:787bd683dfe555c1c1d86582c3fb53f93cb6d729fdc7fd582dd20615b89f869e",
-            "created": "2026-02-11T03:59:25.5876548Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:b398fe8408290a5335b4ec20eb879a26a73c59575658d7ec2def2c60b7b153b4",
+            "created": "2026-02-24T21:31:46.2262564Z",
             "sharedTags": [
               "8.0",
               "8.0-bookworm-slim",
@@ -18817,25 +18817,25 @@
                 "8.0-bookworm-slim-amd64",
                 "8.0.24-bookworm-slim-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:3ee979d15259eb1536636523546ded32a1cb46c20b8da947f18df0351407a788",
-              "baseImageDigest": "amd64/debian@sha256:f173bc8d9755dad48d425da3d664e6649c292e5361b2f6900e5bd3ffb93d61f0",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:a97f5dbf04e2a5d26710a67515f95500de90ae81ac1cba9bcd20dc27b9e33344",
+              "baseImageDigest": "amd64/debian@sha256:241fa06a6823b4e69ed9c667058bc6a239aa88e7fe4ee8c538c2a0b2f5b05942",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "amd64",
-              "created": "2026-02-03T06:50:02.8873449Z",
+              "created": "2026-02-24T20:31:32.2481252Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/8.0/bookworm-slim/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:5249a052371e31fa53d9499b236fafd006fb9163d9d98833e1a067c5fa8f6dd0",
-                  "size": 3284
+                  "digest": "sha256:8280f4901c91878a2dd2c28e5a8686fdac0dcf6f5f3e61fad49248e1ee5a3748",
+                  "size": 3287
                 },
                 {
-                  "digest": "sha256:c230a759816b458c829570631cfe858bd6279b958b857b5127d74ef33ca1b3bb",
-                  "size": 18742243
+                  "digest": "sha256:317ae45ded2781e7f7545d8acadc14b7f81353c70165e171365f86f9f7539d88",
+                  "size": 18742240
                 },
                 {
-                  "digest": "sha256:4831516dd0cb86845f5f902cb9b9d25b5c853152c337eb57e4737a9b7e2a2eb9",
-                  "size": 28228487
+                  "digest": "sha256:84a2afebaf4de2e8eb885634a69abd0087b79c947c53fa4f0481235d6dfadc6c",
+                  "size": 28236279
                 }
               ]
             },
@@ -18845,25 +18845,25 @@
                 "8.0-bookworm-slim-arm32v7",
                 "8.0.24-bookworm-slim-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:d890543bc72b92175c696041f94de2519d8b4c2420da805a720954a312c5642a",
-              "baseImageDigest": "arm32v7/debian@sha256:3871a586cd5ffb34c5c8701a441f651596b21f27411b7441dc7f97d796ac1e16",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:70f21123ffd634c6d97566719c03ad6db7f071659d38b12f0e90c5da6af7214c",
+              "baseImageDigest": "arm32v7/debian@sha256:503c163138760da936cfb30dd39f131fba667584f29f124067d3df1f04f41969",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm32",
-              "created": "2026-02-03T05:42:32.5222142Z",
+              "created": "2026-02-24T20:26:34.65501Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/8.0/bookworm-slim/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:1dc96bc1d44e3fa4b89aa3b8a9d5dc0f6c646c268d26efdaf6456a517f9f11ec",
-                  "size": 3335
+                  "digest": "sha256:acda4670d50e2263e04dd298bce5f9a0e74c0917c1033c423de94b009a78c0a0",
+                  "size": 3331
                 },
                 {
-                  "digest": "sha256:4f50848ce1b9ce8bbbdaf4cac64ae3bea51ed5f96fd3aff7f4bf7d4fb9eb483e",
-                  "size": 17663272
+                  "digest": "sha256:2b3f9ee77ff2037d4d0c0995d646422c74e380f05c307b3dd8c2d6410aa2dc92",
+                  "size": 17663096
                 },
                 {
-                  "digest": "sha256:6763f462e69d93f50a8712f0d5b2a26a36efcb65e2fab2dd4e1620eb3df42efe",
-                  "size": 23934092
+                  "digest": "sha256:e991e6a97912f9d551e1c8d4ec0c8f2bf9f2df075f1c7862e9a2c3c9d650bc7b",
+                  "size": 23941398
                 }
               ]
             },
@@ -18873,25 +18873,25 @@
                 "8.0-bookworm-slim-arm64v8",
                 "8.0.24-bookworm-slim-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:c573353d5eb424cf192285fffc98fec9f0afb19b1b15dc8a6ceeb4ebfffb05e3",
-              "baseImageDigest": "arm64v8/debian@sha256:b616ba6274eddc54c9e56a07e3b1fdcc0d8acacef5e45b9ce47a34804d3e734c",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:08dd4ad363a1e4e5f4c50d4359092cbd237af0c0afdca8ee4444afa72814d165",
+              "baseImageDigest": "arm64v8/debian@sha256:d39531485f2314aa6c6fc1d8088684896a57387c53e003b2075727438ea29fdc",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm64",
-              "created": "2026-02-03T05:44:53.714708Z",
+              "created": "2026-02-24T20:29:16.3324696Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/8.0/bookworm-slim/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:6a17f4cf5f71ea3ee2406816e3b8744b0093e48f00e1566ebeec8b9130bb7f74",
-                  "size": 3333
+                  "digest": "sha256:03c878d572b157b129f8887cafb5946d9e7d151d0fe8dae31e13d8c852ed182e",
+                  "size": 3331
                 },
                 {
-                  "digest": "sha256:874bba8fee1286cde1d61946d1d17da0b5c3d3d2195b34c988c8e9557df1b53d",
-                  "size": 18534212
+                  "digest": "sha256:724c1384ce7006a4afc332f4e28bafe52d454f67a90788d2de0c049e89879040",
+                  "size": 18534199
                 },
                 {
-                  "digest": "sha256:d3d5d8ab26d25b9040a3c2160d7ddfe3911ae81035d5b1b0904f3ebda32476b6",
-                  "size": 28107823
+                  "digest": "sha256:eb04ef52de3a23999fcda632f100324a4d1dbebd588b4df190c4a172bb88c603",
+                  "size": 28116081
                 }
               ]
             }
@@ -20248,8 +20248,8 @@
         {
           "productVersion": "9.0.13",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:c11850efa5c0cbca7222bc6658b2471fe4c6c77b53e9fcd44a96c8f7c932861a",
-            "created": "2026-02-11T03:59:25.5876548Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:e83dd54b916fe786f754934d9bc75e89373190f3f99d1915c9e92aefb864ab86",
+            "created": "2026-02-24T21:31:46.2262564Z",
             "sharedTags": [
               "9.0",
               "9.0-bookworm-slim",
@@ -20264,25 +20264,25 @@
                 "9.0-bookworm-slim-amd64",
                 "9.0.13-bookworm-slim-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:38bcce1bb716041f6f4617a96003bdae0e5f743e647f4d33d259b417daa80117",
-              "baseImageDigest": "amd64/debian@sha256:f173bc8d9755dad48d425da3d664e6649c292e5361b2f6900e5bd3ffb93d61f0",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:6bbf9fb1269e0b38a6cf8c246cca3c7ad721cb59fdcaa30768ecafffe9ab1b69",
+              "baseImageDigest": "amd64/debian@sha256:241fa06a6823b4e69ed9c667058bc6a239aa88e7fe4ee8c538c2a0b2f5b05942",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "amd64",
-              "created": "2026-02-03T06:49:15.6867773Z",
+              "created": "2026-02-24T20:31:37.2341541Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/9.0/bookworm-slim/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:ad0433e17af0c8124f923f2d25b0b7016df624034b6f4104219038b3ce1ad6cc",
-                  "size": 3281
+                  "digest": "sha256:b93c4a8b435d23c85b5b94e03cc011572b8e8a403833e62c4342e49247e8246d",
+                  "size": 3285
                 },
                 {
-                  "digest": "sha256:24501b5958e97913b4b4d8a37ce2eff519944eab7d2b85c51acc1cc640acd4fb",
-                  "size": 18742174
+                  "digest": "sha256:6bed9076af210ed8f776497996d5f777b6f130f98da3f2bf5ad95bf2c1a9a3e7",
+                  "size": 18742186
                 },
                 {
-                  "digest": "sha256:4831516dd0cb86845f5f902cb9b9d25b5c853152c337eb57e4737a9b7e2a2eb9",
-                  "size": 28228487
+                  "digest": "sha256:84a2afebaf4de2e8eb885634a69abd0087b79c947c53fa4f0481235d6dfadc6c",
+                  "size": 28236279
                 }
               ]
             },
@@ -20292,25 +20292,25 @@
                 "9.0-bookworm-slim-arm32v7",
                 "9.0.13-bookworm-slim-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:4d83eb810b7157b8625bd46c84001712dfb8c4331618f5e79846b076c7d4b52b",
-              "baseImageDigest": "arm32v7/debian@sha256:3871a586cd5ffb34c5c8701a441f651596b21f27411b7441dc7f97d796ac1e16",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:a2e82a4e3ee534f80f1a341fcd137a29792e0bb03891c20d0049affb4297801d",
+              "baseImageDigest": "arm32v7/debian@sha256:503c163138760da936cfb30dd39f131fba667584f29f124067d3df1f04f41969",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm32",
-              "created": "2026-02-03T05:44:48.5548508Z",
+              "created": "2026-02-24T20:27:14.5870279Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/9.0/bookworm-slim/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:5e40ce0b7679fc5cecbac82e4f726604bbecacec6fdd25fd8e685e2ed8aeedc7",
-                  "size": 3333
+                  "digest": "sha256:1f878d2b42ccd96a03043f081543d7ffc050d39bf2214fc3c67a8654ea4986dc",
+                  "size": 3334
                 },
                 {
-                  "digest": "sha256:cb07d1f079924f0ce67684c7c2a3daa51552ebd7cd15bc5d42885dd3d27cecf2",
-                  "size": 17663265
+                  "digest": "sha256:2d1257f5996fc202a7c368941f7ea63770cd533f63a809469e845710a343c2f5",
+                  "size": 17663229
                 },
                 {
-                  "digest": "sha256:6763f462e69d93f50a8712f0d5b2a26a36efcb65e2fab2dd4e1620eb3df42efe",
-                  "size": 23934092
+                  "digest": "sha256:e991e6a97912f9d551e1c8d4ec0c8f2bf9f2df075f1c7862e9a2c3c9d650bc7b",
+                  "size": 23941398
                 }
               ]
             },
@@ -20320,25 +20320,25 @@
                 "9.0-bookworm-slim-arm64v8",
                 "9.0.13-bookworm-slim-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:6ab39e1888072c2d74db0e0fef606799b6502d71308c3f3366c7c86e28497dc6",
-              "baseImageDigest": "arm64v8/debian@sha256:b616ba6274eddc54c9e56a07e3b1fdcc0d8acacef5e45b9ce47a34804d3e734c",
+              "digest": "mcr.microsoft.com/dotnet/nightly/runtime-deps@sha256:0314fd28955005166e086b58d8ee47ed5b81bd829299e809dbc5c7a77607ee67",
+              "baseImageDigest": "arm64v8/debian@sha256:d39531485f2314aa6c6fc1d8088684896a57387c53e003b2075727438ea29fdc",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm64",
-              "created": "2026-02-03T05:42:15.0076842Z",
+              "created": "2026-02-24T20:29:51.5856568Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/413bf9843fd728a6cc0c5cc62a857247abce484a/src/runtime-deps/9.0/bookworm-slim/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:b63a0fa824213053dad29b29dfc434cc80d33770d62e50645d1d6b3d5dfe80b1",
-                  "size": 3335
+                  "digest": "sha256:3c63dca6e87bf53a1f557b80f38363793e91f74b6259c6a2a80521899879c526",
+                  "size": 3329
                 },
                 {
-                  "digest": "sha256:1fe424a31ef5c4695ed72144955c27fbe4b3ba168acf8de895bb8441c6722946",
-                  "size": 18534204
+                  "digest": "sha256:194cb49e875f2702078db9e758b2775efef1bb075a69f722c3dd055b1756ef36",
+                  "size": 18534178
                 },
                 {
-                  "digest": "sha256:d3d5d8ab26d25b9040a3c2160d7ddfe3911ae81035d5b1b0904f3ebda32476b6",
-                  "size": 28107823
+                  "digest": "sha256:eb04ef52de3a23999fcda632f100324a4d1dbebd588b4df190c4a172bb88c603",
+                  "size": 28116081
                 }
               ]
             }
@@ -23643,8 +23643,8 @@
         {
           "productVersion": "8.0.418",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:85d6549977e40c976d48617da01803da4ee23cfe2d2caa9a58c028e663fb86f8",
-            "created": "2026-02-11T03:59:25.5876548Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:50ec73a51aa5fa1133f276b48dbae79d3fb3c2a32ebf799374a6e84a59fdd0ee",
+            "created": "2026-02-24T21:31:46.2262564Z",
             "sharedTags": [
               "8.0",
               "8.0-bookworm-slim",
@@ -23659,53 +23659,53 @@
                 "8.0-bookworm-slim-amd64",
                 "8.0.418-bookworm-slim-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:ce750c4cd81f964da2758e60d100a356e8c429b07a6d27b935e2e5f5e72b7f5c",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f350a9fa8bbc684a929a9c6f4e9099e335291ce1702fb55503a2818d7599ac6e",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:52ebac275acf61263861482a7afb540e6470bd04b699141b660fe5386302f6ab",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:4b167e43e0d2f341602a0b1745d6468c38272ac55d76ac71cf24413a2f949bcc",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "amd64",
-              "created": "2026-02-11T02:40:50.8829524Z",
+              "created": "2026-02-24T20:32:34.6715097Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/sdk/8.0/bookworm-slim/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:2569d51ee0e9a97849ed522baf3cfd583c5ac9b9144d5dc60c5850fc9ad7015a",
-                  "size": 16953456
+                  "digest": "sha256:c5e2ba33a7e0e1dbeb9ad1fe6899f3e20a24810441f31130ebf6fe1c5e5219ac",
+                  "size": 16953490
                 },
                 {
-                  "digest": "sha256:27fb1888c9890d1e77569bc1dd67f6111d37640cd1f5b56c9e879caa2d21d2f5",
-                  "size": 2651
+                  "digest": "sha256:9808ffb1bc50b501a0a4988647d98943202827b211ce10d8df7ae6216a6e1abc",
+                  "size": 2647
                 },
                 {
-                  "digest": "sha256:ddc8e1ffc51ebb34884c244bb11f28e2b178c7784a78b47c5623c0c7454a69d0",
-                  "size": 178330585
+                  "digest": "sha256:1da3808faf4861b6c1eec5d83bd7afa377c2ac1aefbf990fc1f26b78e8c1e503",
+                  "size": 178330586
                 },
                 {
-                  "digest": "sha256:6507f2cf75844edc4ed417b2d8be8579b82378ecf60c6e5957199ff432b141c3",
-                  "size": 30888183
+                  "digest": "sha256:702332ab5544a48524d684e8a941129260a7ac8965acb738def13e34e4f47c50",
+                  "size": 30888189
                 },
                 {
-                  "digest": "sha256:4ea41168f52ae8081984699de8e7b268068b92d106d617c8428d1e37e07d1a6b",
-                  "size": 11089639
+                  "digest": "sha256:448172f6be368500c6fd27206a95c19dfce4911edd9b092a2f4161f8d3ab0aef",
+                  "size": 11089637
                 },
                 {
-                  "digest": "sha256:7a645acdf32f5a76dcff1b8b75eccb07772932ee566b916c52f2c9184bb5b944",
+                  "digest": "sha256:28dab6093f0ff87936c75a6a2a4afe26d86a29f79a4d4fa919746497ae2526a1",
                   "size": 154
                 },
                 {
-                  "digest": "sha256:bc825a606da1cfd504959bf9d712f6cfd08367449fd828d0b776ff41a0c8a4c8",
-                  "size": 32249373
+                  "digest": "sha256:25adb5b1f479b2e1bb6574f2d4acda242a1f18e88438da57c3b72814d996f82f",
+                  "size": 32249391
                 },
                 {
-                  "digest": "sha256:5249a052371e31fa53d9499b236fafd006fb9163d9d98833e1a067c5fa8f6dd0",
-                  "size": 3284
+                  "digest": "sha256:8280f4901c91878a2dd2c28e5a8686fdac0dcf6f5f3e61fad49248e1ee5a3748",
+                  "size": 3287
                 },
                 {
-                  "digest": "sha256:c230a759816b458c829570631cfe858bd6279b958b857b5127d74ef33ca1b3bb",
-                  "size": 18742243
+                  "digest": "sha256:317ae45ded2781e7f7545d8acadc14b7f81353c70165e171365f86f9f7539d88",
+                  "size": 18742240
                 },
                 {
-                  "digest": "sha256:4831516dd0cb86845f5f902cb9b9d25b5c853152c337eb57e4737a9b7e2a2eb9",
-                  "size": 28228487
+                  "digest": "sha256:84a2afebaf4de2e8eb885634a69abd0087b79c947c53fa4f0481235d6dfadc6c",
+                  "size": 28236279
                 }
               ]
             },
@@ -23715,53 +23715,53 @@
                 "8.0-bookworm-slim-arm32v7",
                 "8.0.418-bookworm-slim-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:5abf6c15c4d5ba231a300d92a513e3a51e40911db760ea0f2a160cb0612c9da6",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:fd26b7f96272907831d4ff9c480b7dc3515f5f10320627f1bc86313f2e1c9eef",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:f79e3076c3dda28dd86a2184ff917e60bab7874c3116368b9c7370f45b04c849",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f080901307fe477d7d25b5eb158cc594f1caf1c98fbe86da80f614ac018bf441",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm32",
-              "created": "2026-02-11T02:39:23.2070316Z",
+              "created": "2026-02-24T20:27:39.2714194Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/sdk/8.0/bookworm-slim/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:b639d938e65f597ae8da6eaa89e6716bd61936a8557444b195382b65ad890488",
-                  "size": 17011571
+                  "digest": "sha256:e40415384ed1465a3ef16b33e9c891cdcfb00d049bf1ea10dff00c780f286d90",
+                  "size": 17011513
                 },
                 {
-                  "digest": "sha256:5533a1b2552137916cba61ef190a8c886ec4d9f01304d10c7a824073e1fccffb",
-                  "size": 2714
+                  "digest": "sha256:e58b3664f49b42aed96da6e5f8b4ad1ec30bef0b1060ac27ecaa2d6c072dace9",
+                  "size": 2708
                 },
                 {
-                  "digest": "sha256:cfbd8689e4649702934c8e573489895643ac4811133884ef272684da03ae7a88",
-                  "size": 174318775
+                  "digest": "sha256:38773f91dbcd3261223cbfc24552e0641cf6d807c078b8e4cb04a63346b528a4",
+                  "size": 174318798
                 },
                 {
-                  "digest": "sha256:2c2cdf19c2c27094a87738685a4f1a99c1b36e0ce5953c4abfcda234e818f684",
-                  "size": 27431753
+                  "digest": "sha256:cc5fdbecc6b73e71bfe6c80ca2957ce47d651340f7ac7f4075d8a025be9208b9",
+                  "size": 27431606
                 },
                 {
-                  "digest": "sha256:2ee4c871e92468286e4151ca2ceb5d8f3705ffd4144fac020873efe47115d1a4",
-                  "size": 11022671
+                  "digest": "sha256:efb6769eea842f1feda79d37e855f643950d557a6ee67c39eb4408d1b86349b7",
+                  "size": 11022680
                 },
                 {
-                  "digest": "sha256:e2acb5bc99a6478998678f3efe741b1a5efa4b8bdb10dd120f33818ccf42bdd1",
-                  "size": 166
+                  "digest": "sha256:818b710175d8b27cd72d40f64caa034f6a80b3c67d227a9748f251bdae911063",
+                  "size": 165
                 },
                 {
-                  "digest": "sha256:971ef9b973246235e8a3d4a2bca94766fc9b01fd369e19bd2ae43c095615121f",
-                  "size": 30265967
+                  "digest": "sha256:fbde63e0ec1bbd2519da54a5bd193be4c0faa0eea998d4737752b5bd5203c8cb",
+                  "size": 30265985
                 },
                 {
-                  "digest": "sha256:1dc96bc1d44e3fa4b89aa3b8a9d5dc0f6c646c268d26efdaf6456a517f9f11ec",
-                  "size": 3335
+                  "digest": "sha256:acda4670d50e2263e04dd298bce5f9a0e74c0917c1033c423de94b009a78c0a0",
+                  "size": 3331
                 },
                 {
-                  "digest": "sha256:4f50848ce1b9ce8bbbdaf4cac64ae3bea51ed5f96fd3aff7f4bf7d4fb9eb483e",
-                  "size": 17663272
+                  "digest": "sha256:2b3f9ee77ff2037d4d0c0995d646422c74e380f05c307b3dd8c2d6410aa2dc92",
+                  "size": 17663096
                 },
                 {
-                  "digest": "sha256:6763f462e69d93f50a8712f0d5b2a26a36efcb65e2fab2dd4e1620eb3df42efe",
-                  "size": 23934092
+                  "digest": "sha256:e991e6a97912f9d551e1c8d4ec0c8f2bf9f2df075f1c7862e9a2c3c9d650bc7b",
+                  "size": 23941398
                 }
               ]
             },
@@ -23771,53 +23771,53 @@
                 "8.0-bookworm-slim-arm64v8",
                 "8.0.418-bookworm-slim-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:364d3e1018981da1dad23c71967864609e31aa9e029a60871ee8136c3359cfc9",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:66e48e10a7d16831a6ac929b632bd1bfda6af519f955a57f282ec95f5e5be26a",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:d59ee8a9977bd78f15b67992c36bee641b39743a8a776748417c9d0bcef4dcd9",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:c312e56d409fb4af7c3806722f4c8a2da51426ced4603c87dc6ae9a5e897251e",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm64",
-              "created": "2026-02-11T02:39:26.5835962Z",
+              "created": "2026-02-24T20:30:18.5511716Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/f719ec2d3414c6e27a302304a933466ed4a6ee47/src/sdk/8.0/bookworm-slim/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:7698137c6a4324f61aca286d650dce1c6a1e2ced910966119a7a5019975595e3",
-                  "size": 17019567
+                  "digest": "sha256:0c12402ef384883265f680c5ead3766b1273dacfd73a444ec0fbe2d370030171",
+                  "size": 17019239
                 },
                 {
-                  "digest": "sha256:7e768d9e1f5a9916d041b9db337490f936b0ab59ab06c5c676b7dcbdf0ae6660",
-                  "size": 2719
+                  "digest": "sha256:560c229489ed54bafe829304a7840e1837e11022542a62d3f31c4b387cc020f9",
+                  "size": 2692
                 },
                 {
-                  "digest": "sha256:4bf8a3e3cd0a7c8fc61a7c17853d9b637347cd444099ef3eacb4ce3a0ace1bf1",
-                  "size": 174998625
+                  "digest": "sha256:4cf2846d4ba887215f18f402208964bd87bd8cd749c5dddf513d770b869b5572",
+                  "size": 174998605
                 },
                 {
-                  "digest": "sha256:30b609c8b307731f9bab7ead50d0d91e2b466e3cfda1d9bd3f3a0d4da1ced70e",
-                  "size": 31360500
+                  "digest": "sha256:7c0334e2c61c0d992f9282b08c86abc031844133f36467baf8b5ddd1699bb356",
+                  "size": 31360438
                 },
                 {
-                  "digest": "sha256:8e9ca0a73b0627db7440b234403490717d5e0ee00a530713326f590fdd13644e",
-                  "size": 10756441
+                  "digest": "sha256:51cfca91e253cb3b220e461f638bc100dbde2e6d2fef1b8811b5427d1edfc9c1",
+                  "size": 10756428
                 },
                 {
-                  "digest": "sha256:94fb68e25a95682a6475554aa25600e0f5d1a7a9056db2bf901e24442e537e25",
-                  "size": 166
+                  "digest": "sha256:33104dc47645685621577b05d9fff08ac7bd67b23a23513976c6c7d606a3bf4a",
+                  "size": 164
                 },
                 {
-                  "digest": "sha256:938760c139c8811d551489c87e299640c381b5bb22befec78c1195e501fa96ae",
+                  "digest": "sha256:947bf10e1f62237fd3640cea10862ad5ba589a8cb4714f61957fbeeb8e2709ea",
                   "size": 30828597
                 },
                 {
-                  "digest": "sha256:6a17f4cf5f71ea3ee2406816e3b8744b0093e48f00e1566ebeec8b9130bb7f74",
-                  "size": 3333
+                  "digest": "sha256:03c878d572b157b129f8887cafb5946d9e7d151d0fe8dae31e13d8c852ed182e",
+                  "size": 3331
                 },
                 {
-                  "digest": "sha256:874bba8fee1286cde1d61946d1d17da0b5c3d3d2195b34c988c8e9557df1b53d",
-                  "size": 18534212
+                  "digest": "sha256:724c1384ce7006a4afc332f4e28bafe52d454f67a90788d2de0c049e89879040",
+                  "size": 18534199
                 },
                 {
-                  "digest": "sha256:d3d5d8ab26d25b9040a3c2160d7ddfe3911ae81035d5b1b0904f3ebda32476b6",
-                  "size": 28107823
+                  "digest": "sha256:eb04ef52de3a23999fcda632f100324a4d1dbebd588b4df190c4a172bb88c603",
+                  "size": 28116081
                 }
               ]
             }
@@ -25225,8 +25225,8 @@
         {
           "productVersion": "9.0.311",
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:d42fd45935caa028a9fe56cac0db4a0ff94b2669ac390d65642fc7a0c864a9f9",
-            "created": "2026-02-11T03:59:25.5876548Z",
+            "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:5a195857101ff4efecbf805ec826b4728d2670716eb2563a358ee8be77cc8536",
+            "created": "2026-02-24T21:31:46.2262564Z",
             "sharedTags": [
               "9.0",
               "9.0-bookworm-slim",
@@ -25241,53 +25241,53 @@
                 "9.0-bookworm-slim-amd64",
                 "9.0.311-bookworm-slim-amd64"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:611efd6658603cd2eed4ebd179fa36588d90ef834bc52808573654f553dc8047",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f7e41fb5fe1f99a8c823264e5af43acb0c82395eec7fec4b95b2bb21f5453228",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:4164d35c937d662acae53df023108f35b3634b5a0879b61913fb11c3717b27a9",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:9220a79eb5d80bab0c0fe40a2b29338239dba2f2fd953e17e2b8eac2d1e52559",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "amd64",
-              "created": "2026-02-11T02:40:58.8176005Z",
+              "created": "2026-02-24T20:32:38.6073774Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/sdk/9.0/bookworm-slim/amd64/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:9cfb20afa2b6f5c1cb98dfdb6413e3e34ec4cf178f58166e5b5907f920e69a8c",
-                  "size": 17438409
+                  "digest": "sha256:5115534568f2a364cb1b9e385715ae050f9de25f66d8d19d580bf6ef51f295f2",
+                  "size": 17438315
                 },
                 {
-                  "digest": "sha256:14135bf54c1dcb7954d746087a41a2a73735be0d6b4492b8d4face4cd87b271d",
-                  "size": 2688
+                  "digest": "sha256:2a84226e46d158190b406243eeb11a3c3aa28c4a7ddb0c8d3baf8c5290dd263a",
+                  "size": 2667
                 },
                 {
-                  "digest": "sha256:50e02d4cf8b0c0cc1b9b38d499db69d930a4d59031fe8462d95717182d790bb2",
-                  "size": 176306543
+                  "digest": "sha256:2b2a7d7d96d009b051ae2d1177e9cc067c3636b7498f3d204e0b062c0a81f06f",
+                  "size": 176306505
                 },
                 {
-                  "digest": "sha256:e0f20bcc31d3560e7bb86cde52f82352d567a66a374c0078c64df17bc5b6fcaf",
-                  "size": 30888158
+                  "digest": "sha256:429555e4082b43b0c96c58bf2d337995724ce0c0f4987969a52706d19f40fb0c",
+                  "size": 30888125
                 },
                 {
-                  "digest": "sha256:d8e1a91bd87a0bdf5f469ef6324d87b89fe8b93772ffcd7e91e29ee88621dcf8",
-                  "size": 11310869
+                  "digest": "sha256:16ee23e193f9249b238c2dc832958b9e1fc2b21b120474de490f2a4c9495f8ed",
+                  "size": 11310871
                 },
                 {
-                  "digest": "sha256:58710ba28aab74e3fbccc1dbb1a1dd44e4a7018b1aececb821c9f2a07ab180d5",
-                  "size": 156
+                  "digest": "sha256:ab4766cf2f6639bbd6accc21c02e7889ae653297f56c90a4acfc3eecc90ff0fb",
+                  "size": 154
                 },
                 {
-                  "digest": "sha256:21dfbac4cd940933a7a68956e71558299560d3bfdc792a80f386211b8d94a134",
-                  "size": 34549057
+                  "digest": "sha256:8fe43f10c551c6669ff7a7ee441205ef2fdde1ac0735876737413c36446208b0",
+                  "size": 34549075
                 },
                 {
-                  "digest": "sha256:ad0433e17af0c8124f923f2d25b0b7016df624034b6f4104219038b3ce1ad6cc",
-                  "size": 3281
+                  "digest": "sha256:b93c4a8b435d23c85b5b94e03cc011572b8e8a403833e62c4342e49247e8246d",
+                  "size": 3285
                 },
                 {
-                  "digest": "sha256:24501b5958e97913b4b4d8a37ce2eff519944eab7d2b85c51acc1cc640acd4fb",
-                  "size": 18742174
+                  "digest": "sha256:6bed9076af210ed8f776497996d5f777b6f130f98da3f2bf5ad95bf2c1a9a3e7",
+                  "size": 18742186
                 },
                 {
-                  "digest": "sha256:4831516dd0cb86845f5f902cb9b9d25b5c853152c337eb57e4737a9b7e2a2eb9",
-                  "size": 28228487
+                  "digest": "sha256:84a2afebaf4de2e8eb885634a69abd0087b79c947c53fa4f0481235d6dfadc6c",
+                  "size": 28236279
                 }
               ]
             },
@@ -25297,53 +25297,53 @@
                 "9.0-bookworm-slim-arm32v7",
                 "9.0.311-bookworm-slim-arm32v7"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:e86c9cf69a77896ee66edbaa32b4eebd1352cbf6461c1ec94f36e6ba51aa14bd",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:4970761d9453fa7df03f3492e2ced7a59aea4c956d34841adf95192f204779e1",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:c96ee73e7f930b9b0b31e37f657fbfe7cbb54946f44e8afe3a3e80f76dfe7362",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:a6559f40c4f8ef3725448f4b15ae41cc2166774bc80465dc1f2130513acc1f3a",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm32",
-              "created": "2026-02-11T02:39:05.72696Z",
+              "created": "2026-02-24T20:28:16.193385Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/sdk/9.0/bookworm-slim/arm32v7/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:f90e48a4df55feebe1c6113bca987ac47695cd7150a670e7787f1942990585e8",
-                  "size": 17497406
+                  "digest": "sha256:ba2d46c6446e1d41c9cd0d48f899fa5f0e5551312a82b776a938809e82dd048a",
+                  "size": 17497401
                 },
                 {
-                  "digest": "sha256:a7fbf277d5a59b82843e8620920d706953b54873ce30a2a0388bcf06654f65a2",
-                  "size": 2734
+                  "digest": "sha256:ac5ee16e968e4244ff8cb4429630c8625167257e235b8dc817010fbbed35e58c",
+                  "size": 2748
                 },
                 {
-                  "digest": "sha256:a4e75143ae290107d671fc98105664ba12c0a659a70b9b42123ea9f9d4eb5218",
-                  "size": 172798101
+                  "digest": "sha256:d9a611b4ed7dd501838aeb85cbeaf5a5db6e2c6252e6d6d3132f17bbac0c2586",
+                  "size": 172798203
                 },
                 {
-                  "digest": "sha256:8edf67a6c5625b43a538d6ed5878640e5ca8ae7767e971e3a467ceb90d426871",
-                  "size": 27431604
+                  "digest": "sha256:62a1c1a5b8dbb155a22efc491053bae635b687f35189a0577d6f52ccb283cb27",
+                  "size": 27431710
                 },
                 {
-                  "digest": "sha256:b7bb80b18c7f46c3bead4bb083e36337103411b764e4d95280bba7259a4db7fc",
-                  "size": 11268261
+                  "digest": "sha256:cfcb265ae07b6e8b444c0e2c54ca85315fc0d15f2f627fcec8a3213dda82e15c",
+                  "size": 11268262
                 },
                 {
-                  "digest": "sha256:6010237bd89e6e9e85cd86af972fc5d91da7f7cf5f773abec615c66beab288d6",
-                  "size": 167
+                  "digest": "sha256:4cd808317605e308f7f8316d27cf8704ecfdbc2011b3bcaeccdaa7cad85937ab",
+                  "size": 165
                 },
                 {
-                  "digest": "sha256:1066d723d1c74fb020c34fda34624a3f01b1cfdcdfb2c674e972767cf2adfd57",
-                  "size": 32058086
+                  "digest": "sha256:6c7de55a3fc0d713e976c89e79fe9791105e9c484efd46e930cc9f1d581136de",
+                  "size": 32058087
                 },
                 {
-                  "digest": "sha256:5e40ce0b7679fc5cecbac82e4f726604bbecacec6fdd25fd8e685e2ed8aeedc7",
-                  "size": 3333
+                  "digest": "sha256:1f878d2b42ccd96a03043f081543d7ffc050d39bf2214fc3c67a8654ea4986dc",
+                  "size": 3334
                 },
                 {
-                  "digest": "sha256:cb07d1f079924f0ce67684c7c2a3daa51552ebd7cd15bc5d42885dd3d27cecf2",
-                  "size": 17663265
+                  "digest": "sha256:2d1257f5996fc202a7c368941f7ea63770cd533f63a809469e845710a343c2f5",
+                  "size": 17663229
                 },
                 {
-                  "digest": "sha256:6763f462e69d93f50a8712f0d5b2a26a36efcb65e2fab2dd4e1620eb3df42efe",
-                  "size": 23934092
+                  "digest": "sha256:e991e6a97912f9d551e1c8d4ec0c8f2bf9f2df075f1c7862e9a2c3c9d650bc7b",
+                  "size": 23941398
                 }
               ]
             },
@@ -25353,53 +25353,53 @@
                 "9.0-bookworm-slim-arm64v8",
                 "9.0.311-bookworm-slim-arm64v8"
               ],
-              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:efef7d127a930a0d8061ababa2b4bd86b09672d32d9cb448598b469f9a8dc239",
-              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:b5676c1355472c5fc4d21b2e192d1472f24fa8fb493ae74c7dc1d90844d29abd",
+              "digest": "mcr.microsoft.com/dotnet/nightly/sdk@sha256:f61d3a61cdaf87f35aa5efc3fb3934e9e8617aa8f1416f159b7dd2eb8cd805e7",
+              "baseImageDigest": "mcr.microsoft.com/dotnet/nightly/aspnet@sha256:f077ce9354b30dd867409850d09b3b9804ea2f71bec9bcd6714707f2f22d9069",
               "osType": "Linux",
               "osVersion": "bookworm-slim",
               "architecture": "arm64",
-              "created": "2026-02-11T02:39:34.7691592Z",
+              "created": "2026-02-24T20:30:51.6457382Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/333df169e9aed2778b772dd1c82e65122bffe5b7/src/sdk/9.0/bookworm-slim/arm64v8/Dockerfile",
               "layers": [
                 {
-                  "digest": "sha256:fe924f59a6cd895007872e2a08525c1557788bfac027e82d062e79f174a9187d",
-                  "size": 17503127
+                  "digest": "sha256:46e6a8b8d0df432057e8f9614277f99f47c17cfdacee678596e797a2e6a6c519",
+                  "size": 17503193
                 },
                 {
-                  "digest": "sha256:fc13936644e9ced7500c1f0470e240d3021b6e8eff98c30857f792f1da91fe72",
-                  "size": 2707
+                  "digest": "sha256:5598f50398320506347015e53972d7e6f927f896d44133050d1bc66fed2cc514",
+                  "size": 2720
                 },
                 {
-                  "digest": "sha256:c3c8f3d3a4d1b1196eb51509667fef77844ac0c98710d6dfba4ee55cae039095",
-                  "size": 173140174
+                  "digest": "sha256:0a0a2c4aa30248f8c6c66621a691f321039a0ad30c1ec61a2c8502f57ce6a5b7",
+                  "size": 173140157
                 },
                 {
-                  "digest": "sha256:3fe91e85f53ac575528ea9ae3487d475e8363adc62916fdc9b94dec4e29db051",
-                  "size": 31360443
+                  "digest": "sha256:6447e67ae1d41c9336b19cde970d2c3254c0efa199036c7b781430e24b0d97be",
+                  "size": 31360439
                 },
                 {
-                  "digest": "sha256:b275dc186107d764452e99c525a36ffed6b9b3b4273e5fb2ee866cfe8099d28e",
-                  "size": 10922612
+                  "digest": "sha256:9426610f125c3b02b060132eafdb9eaad8cf89dae01870c1b9952301ecfdbd8d",
+                  "size": 10922621
                 },
                 {
-                  "digest": "sha256:9a301d4f8ade9a039c47aafa14d8a76cfb397a82b3ddc7dcc313e9d08cdd053b",
-                  "size": 166
+                  "digest": "sha256:be46d7fd37f16bef1971d903a3577acea61c0ca0a9d6804b6764259e42f7b96c",
+                  "size": 162
                 },
                 {
-                  "digest": "sha256:8f421d3af1c8b560d974f1ce3f4b86a09cfedd965a40e5b2c9ccc61a0c00c494",
-                  "size": 32850321
+                  "digest": "sha256:e44bdb983e5d7aaa39bbd9529a1da7d3aab797b71b593462fcca1db760de3ef4",
+                  "size": 32850325
                 },
                 {
-                  "digest": "sha256:b63a0fa824213053dad29b29dfc434cc80d33770d62e50645d1d6b3d5dfe80b1",
-                  "size": 3335
+                  "digest": "sha256:3c63dca6e87bf53a1f557b80f38363793e91f74b6259c6a2a80521899879c526",
+                  "size": 3329
                 },
                 {
-                  "digest": "sha256:1fe424a31ef5c4695ed72144955c27fbe4b3ba168acf8de895bb8441c6722946",
-                  "size": 18534204
+                  "digest": "sha256:194cb49e875f2702078db9e758b2775efef1bb075a69f722c3dd055b1756ef36",
+                  "size": 18534178
                 },
                 {
-                  "digest": "sha256:d3d5d8ab26d25b9040a3c2160d7ddfe3911ae81035d5b1b0904f3ebda32476b6",
-                  "size": 28107823
+                  "digest": "sha256:eb04ef52de3a23999fcda632f100324a4d1dbebd588b4df190c4a172bb88c603",
+                  "size": 28116081
                 }
               ]
             }
