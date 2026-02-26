@@ -6,10 +6,10 @@
       "images": [
         {
           "manifest": {
-            "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:6d69b1d675ccd6f3985a1af463a355e3da88e94d1db176dacc9f5632b0ceefab",
-            "created": "2026-02-24T04:13:26.2592793Z",
+            "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:2d324b7d8cc04a1330a8c34591d2e5fe8ce303f4621d37735cd80c61729012c5",
+            "created": "2026-02-26T17:31:03.0628703Z",
             "sharedTags": [
-              "2911240",
+              "2913466",
               "latest"
             ]
           },
@@ -18,27 +18,27 @@
               "dockerfile": "Dockerfile.linux",
               "simpleTags": [
                 "linux-amd64",
-                "linux-amd64-2911240"
+                "linux-amd64-2913466"
               ],
-              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:79b3146c3eb2d411511e33d8bdeb94ada1344ebfac4b2eab3f0daddcf40e8b31",
+              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:ca7fa833ae923dd230a2d6563ec4549701c9333226534bdd898f99115c1d9ed1",
               "baseImageDigest": "mcr.microsoft.com/dotnet/runtime@sha256:0d98d413fe31a6a0c3ad780fa04894f1a9d7d63f81df15158c6df5515a49919e",
               "osType": "Linux",
               "osVersion": "azurelinux",
               "architecture": "amd64",
-              "created": "2026-02-24T03:23:01.2862762Z",
+              "created": "2026-02-26T16:29:13.254436Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/22bd4c6740f83afa004c7511d62a0e3f41aacb05/Dockerfile.linux",
               "layers": [
                 {
-                  "digest": "sha256:0ffca4b2ac77d5c7236e65c46521642fd63cfe1b01c61d6bddf932d9e41f0615",
-                  "size": 24469228
+                  "digest": "sha256:fbedd8b139c2dbd7f716cd84fc63400c75a40b206cd342725c6642cf55a875a4",
+                  "size": 24469022
                 },
                 {
-                  "digest": "sha256:8d37a5a4ba68d2351013997724f63127929da3e9013190f22001d905c133caac",
+                  "digest": "sha256:f15831ea767a267f9463aa528ee0c50338d1a861e04dc9d7f2db5c3e3987195c",
                   "size": 103
                 },
                 {
-                  "digest": "sha256:e14ea2d6f91bfbc933cf8c38be96be9c744b5d533754426096b50d50e71ac15e",
-                  "size": 185702640
+                  "digest": "sha256:c2ef8483cdfd45e4e4a0ea6b5c6213cfdfd9c88e7462c403adeb3a30722b4f8f",
+                  "size": 185702094
                 },
                 {
                   "digest": "sha256:1d88baf4f7fae92640e2ec132bf9fa88d1a7e8f4167281dddfebc7e3dbe70b94",
@@ -66,27 +66,27 @@
               "dockerfile": "Dockerfile.linux",
               "simpleTags": [
                 "linux-arm64",
-                "linux-arm64-2911240"
+                "linux-arm64-2913466"
               ],
-              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:abe7b47cd001722e372f1d5263174f4f0b1b43bc1a9ca2bfe4a2d5022c85ab23",
+              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:fb12c7aef7053a9a17a9f9f6a8fbf4ff78974864f870c69086c258f0e1967bb7",
               "baseImageDigest": "mcr.microsoft.com/dotnet/runtime@sha256:0d98d413fe31a6a0c3ad780fa04894f1a9d7d63f81df15158c6df5515a49919e",
               "osType": "Linux",
               "osVersion": "azurelinux",
               "architecture": "arm64",
-              "created": "2026-02-24T03:21:07.1020166Z",
+              "created": "2026-02-26T16:23:04.5488484Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/22bd4c6740f83afa004c7511d62a0e3f41aacb05/Dockerfile.linux",
               "layers": [
                 {
-                  "digest": "sha256:a1811cbbf89e880547f15e8f8c3d7bf084a1d030b44d5c765ca047bcc2a76cc0",
-                  "size": 12454711
+                  "digest": "sha256:033b5e6cab59bfc34ac1f8bcd3e61a60c8214da0de47db86e2afbf6e9e46cf19",
+                  "size": 12454703
                 },
                 {
-                  "digest": "sha256:6c3ce784393bddcae15b500bcc505445f905233c3b5c5cdc6736512a93f217c8",
+                  "digest": "sha256:99db22603e6a4772eb167e82ea2daa67683e71d077980b6135791397ed9e1f89",
                   "size": 103
                 },
                 {
-                  "digest": "sha256:801aed36c16f10148479903d837f2a68c85f20dc96452b4513e58e614ad17e02",
-                  "size": 168977943
+                  "digest": "sha256:ff20dd7430d979a272462342d4273a8187c6822e0a49d5d76b084943a8b26d46",
+                  "size": 168978428
                 },
                 {
                   "digest": "sha256:236909fdba073a42e9494791b4959476e85eceb908b4cbf1509119d7987d9f84",
@@ -114,27 +114,27 @@
               "dockerfile": "Dockerfile.windows",
               "simpleTags": [
                 "nanoserver-1809-amd64",
-                "nanoserver-1809-amd64-2911240"
+                "nanoserver-1809-amd64-2913466"
               ],
-              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:feb8900fb2ddc47b601389dcaa51f96e10b0f0a5ba77a21657be65c25b70ae74",
+              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:0d7aa819ce706d082ff1fe69417ddeb6d4d03ce32fa09e3179049391fb8ab416",
               "baseImageDigest": "mcr.microsoft.com/windows/nanoserver@sha256:4c7408e78ab83262b3bc84f0b47a9afd9a2bdcad5024e678139c68a72fcf8108",
               "osType": "Windows",
               "osVersion": "nanoserver-1809",
               "architecture": "amd64",
-              "created": "2026-02-24T03:25:48.1015588Z",
+              "created": "2026-02-26T16:31:02.4366281Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/9daeeb92e8b990b4a3df8cf665d78fd178b67e3b/Dockerfile.windows",
               "layers": [
                 {
-                  "digest": "sha256:952d48826b3a80bbe92f16c5baeae523481c3eda580058f091774070fcf22c05",
-                  "size": 1035
+                  "digest": "sha256:2205fb723c2b00bdeba33f20be1c92b5fb88f039043802e02adb1c3ee173e016",
+                  "size": 1021
                 },
                 {
-                  "digest": "sha256:b62ac170191ccf53bb36c5eefd45c75e0d8e17c25870332ab962e9da280cd6e3",
-                  "size": 49665577
+                  "digest": "sha256:de11932fbcf42e7d1a237035fc1987cdff753f589188d1bef95444c87c928bb1",
+                  "size": 49665592
                 },
                 {
-                  "digest": "sha256:a4bc71fc205e407ef6344d2ac1295cda302e40a9185868afbda45ec88e56f231",
-                  "size": 1242
+                  "digest": "sha256:f8f99e6009fdbc0c222257784fa9aa6a66b127e41b4f3de7d3e8f5778ad5c124",
+                  "size": 1243
                 },
                 {
                   "digest": "sha256:9844e472edf14624acf192110c62d6cac30e8ebb07fe3379ef4107ca00a954e8",
@@ -146,27 +146,27 @@
               "dockerfile": "Dockerfile.windows",
               "simpleTags": [
                 "nanoserver-ltsc2022-amd64",
-                "nanoserver-ltsc2022-amd64-2911240"
+                "nanoserver-ltsc2022-amd64-2913466"
               ],
-              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:ef09f30441f5620c986646ee6d6680a307590ed49ccb62ca81f4da0ce8123cd8",
+              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:24a4cfec71eb456abea5cf75590164d5934e37f25103fcfd44dd13e35b73027f",
               "baseImageDigest": "mcr.microsoft.com/windows/nanoserver@sha256:42f7526e855caf911bef2e05a3eb497497e4a6d431a37b216d7b345d5eee80c6",
               "osType": "Windows",
               "osVersion": "nanoserver-ltsc2022",
               "architecture": "amd64",
-              "created": "2026-02-24T03:24:19.71533Z",
+              "created": "2026-02-26T16:28:27.2719262Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/9daeeb92e8b990b4a3df8cf665d78fd178b67e3b/Dockerfile.windows",
               "layers": [
                 {
-                  "digest": "sha256:7e1c3aad685b5e7293e0c879a67c7658d41b0e19509ac3aba8e0ae68e8ed0ea3",
-                  "size": 1030
+                  "digest": "sha256:18cb33a9835da84a4a111b70c457181939d262a931897433c351962fc5432dc8",
+                  "size": 1029
                 },
                 {
-                  "digest": "sha256:ed23d1dbd4672f0c2b0b03467d0bc2416d7deadd1a38e8ce82b6aa2e675fcec1",
-                  "size": 49665571
+                  "digest": "sha256:c586fdf0744cae94ac4bbd94f116f6142b7a4f1fce13d9eb9945ce5b365b94b2",
+                  "size": 49665540
                 },
                 {
-                  "digest": "sha256:5192a7b5f1abd56b8a0f6836acc85ed3f0923a273350813ec29e2d7e3c80a2aa",
-                  "size": 1245
+                  "digest": "sha256:7c1ed1cd6c41cd100c8c75a26e26a365eaca03f0e124e3b220a224c433d4e866",
+                  "size": 1248
                 },
                 {
                   "digest": "sha256:ca0a97fd01c767a53a3e0856fa1db64de3eecf8d8b3f54cc7e6b032890bd7e7e",
@@ -178,27 +178,27 @@
               "dockerfile": "Dockerfile.windows",
               "simpleTags": [
                 "windowsservercore-ltsc2016-amd64",
-                "windowsservercore-ltsc2016-amd64-2911240"
+                "windowsservercore-ltsc2016-amd64-2913466"
               ],
-              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:a12e2359cee86176995f1ba3a0ee7e652b222155d7ba3ebd1ac75aac827d2249",
+              "digest": "mcr.microsoft.com/dotnet-buildtools/image-builder@sha256:91b223acd7b37abb323c89518699b9dc2a8316542cc412eed678b1547236262f",
               "baseImageDigest": "mcr.microsoft.com/windows/servercore@sha256:786e3ff7528478581882cb724b5b51dbb45eaf26d6e68a761ae756fe8044cd8f",
               "osType": "Windows",
               "osVersion": "windowsservercore-ltsc2019",
               "architecture": "amd64",
-              "created": "2026-02-24T03:25:44.154731Z",
+              "created": "2026-02-26T16:30:57.7483201Z",
               "commitUrl": "https://github.com/dotnet/dotnet-docker/blob/9daeeb92e8b990b4a3df8cf665d78fd178b67e3b/Dockerfile.windows",
               "layers": [
                 {
-                  "digest": "sha256:d989fea3c5570cf9394a6b13c25c796aaba504a6b718b50a6908ddb073776300",
-                  "size": 1284
+                  "digest": "sha256:97d1fd42e180a44191b16170618c777bbbe990e137374296504c480923935607",
+                  "size": 1289
                 },
                 {
-                  "digest": "sha256:194d3fa6ec9d04af7dee82001888ec3736698b5a28afa4fee21af0e4d8b1998b",
-                  "size": 49665725
+                  "digest": "sha256:3fbee5e3bceaae3dc7d4f82f3af97f71533e9360c5001ca53e2aa2c80ed9dae6",
+                  "size": 49665557
                 },
                 {
-                  "digest": "sha256:64800fb7950b2fdc1b0980f88c13727f9979047f48dc8614d393970bfd8a9931",
-                  "size": 1445
+                  "digest": "sha256:06737349ce404ce016f5559324ed10edce663f1046314533119ba30b2bd6c7d5",
+                  "size": 1443
                 },
                 {
                   "digest": "sha256:3cb36859d724c6304869d47e0863b355034c85b2c29011d4ab167e6ffde0eeb2",
